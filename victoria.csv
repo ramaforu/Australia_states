@@ -1,0 +1,1545 @@
+State,Suburb_Name,incident_count,eo,forecast,forecastaccuracy,risk,top_mechanism_1,top_mechanism_2,count_mechanism_1,count_mechanism_2,mechanism_per_1,mechanism_per_2,updated_on
+Victoria,Abbotsford ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,7,0,0,2021-07-18 08:36:47.865692+00:00
+Victoria,Aberfeldie,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,10,0,0,2021-07-18 08:36:47.865692+00:01
+Victoria,Acheron,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,20,0,0,2021-07-18 08:36:47.865692+00:02
+Victoria,Aireys Inlet,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:03
+Victoria,Airport West,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:04
+Victoria,Albanvale,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:05
+Victoria,Albert Park ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:06
+Victoria,Alberton ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:07
+Victoria,Albion ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:08
+Victoria,Alexandra ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:09
+Victoria,Alfredton,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,21,0,0,2021-07-18 08:36:47.865692+00:10
+Victoria,Allansford,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:11
+Victoria,Allendale,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:12
+Victoria,Alma ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:13
+Victoria,Alphington,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,10,0,0,2021-07-18 08:36:47.865692+00:14
+Victoria,Altona ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:15
+Victoria,Altona Meadows,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:16
+Victoria,Altona North,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:17
+Victoria,Amphitheatre,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:18
+Victoria,Anakie,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:19
+Victoria,Anglesea,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,7,0,0,2021-07-18 08:36:47.865692+00:20
+Victoria,Apollo Bay ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:21
+Victoria,Apsley ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:22
+Victoria,Ararat,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:23
+Victoria,Arcadia ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:24
+Victoria,Ardeer,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:25
+Victoria,Ardmona,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,12,0,0,2021-07-18 08:36:47.865692+00:26
+Victoria,Armadale ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:27
+Victoria,Arthurs Creek,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,14,0,0,2021-07-18 08:36:47.865692+00:28
+Victoria,Arthurs Seat,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:29
+Victoria,Ascot ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,20,0,0,2021-07-18 08:36:47.865692+00:30
+Victoria,Ascot ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:31
+Victoria,Ascot Vale,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,20,0,0,2021-07-18 08:36:47.865692+00:32
+Victoria,Ashbourne ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,24,0,0,2021-07-18 08:36:47.865692+00:33
+Victoria,Ashburton,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,21,0,0,2021-07-18 08:36:47.865692+00:34
+Victoria,Ashwood,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,10,0,0,2021-07-18 08:36:47.865692+00:35
+Victoria,Aspendale,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:36
+Victoria,Aspendale Gardens,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,23,0,0,2021-07-18 08:36:47.865692+00:37
+Victoria,Athlone,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:38
+Victoria,Attwood,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:39
+Victoria,Avalon ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:40
+Victoria,Avenel,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,21,0,0,2021-07-18 08:36:47.865692+00:41
+Victoria,Avoca ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:42
+Victoria,Avondale Heights,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:43
+Victoria,Avonsleigh,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,11,0,0,2021-07-18 08:36:47.865692+00:44
+Victoria,Axe Creek,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:45
+Victoria,Axedale,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:46
+Victoria,Bacchus Marsh,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:47
+Victoria,Baddaginnie,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,20,0,0,2021-07-18 08:36:47.865692+00:48
+Victoria,Badger Creek,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:49
+Victoria,Bagshot,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:50
+Victoria,Bailieston,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:51
+Victoria,Bairnsdale,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:52
+Victoria,Bakery Hill,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:53
+Victoria,Balaclava ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,9,0,0,2021-07-18 08:36:47.865692+00:54
+Victoria,Ballan,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:55
+Victoria,Ballarat Central,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,15,0,0,2021-07-18 08:36:47.865692+00:56
+Victoria,Ballarat East,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:57
+Victoria,Ballarat North,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,18,0,0,2021-07-18 08:36:47.865692+00:58
+Victoria,Ballendella,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:59
+Victoria,Balliang,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:60
+Victoria,Balmattum,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,12,0,0,2021-07-18 08:36:47.865692+00:61
+Victoria,Balmoral ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:62
+Victoria,Balnarring,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:63
+Victoria,Balnarring Beach,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,17,0,0,2021-07-18 08:36:47.865692+00:64
+Victoria,Balwyn,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,24,0,0,2021-07-18 08:36:47.865692+00:65
+Victoria,Balwyn North,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,18,0,0,2021-07-18 08:36:47.865692+00:66
+Victoria,Bamawm,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,15,0,0,2021-07-18 08:36:47.865692+00:67
+Victoria,Bamawm Extension,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:68
+Victoria,Bandiana,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,13,0,0,2021-07-18 08:36:47.865692+00:69
+Victoria,Bangholme,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:70
+Victoria,Bannockburn ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:71
+Victoria,Baranduda,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:72
+Victoria,Baringhup,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:73
+Victoria,Barjarg,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:74
+Victoria,Barkers Creek,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,14,0,0,2021-07-18 08:36:47.865692+00:75
+Victoria,Barmah,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,16,0,0,2021-07-18 08:36:47.865692+00:76
+Victoria,Barnawartha,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:77
+Victoria,Barnawartha North,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:78
+Victoria,Barongarook,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,16,0,0,2021-07-18 08:36:47.865692+00:79
+Victoria,Barongarook West,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,10,0,0,2021-07-18 08:36:47.865692+00:80
+Victoria,Barrabool,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,23,0,0,2021-07-18 08:36:47.865692+00:81
+Victoria,Barwon Downs,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:82
+Victoria,Barwon Heads,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:83
+Victoria,Bass,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,7,0,0,2021-07-18 08:36:47.865692+00:84
+Victoria,Batesford,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:85
+Victoria,Baw Baw ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:86
+Victoria,Baw Baw Village,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,11,0,0,2021-07-18 08:36:47.865692+00:87
+Victoria,Baxter,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,7,0,0,2021-07-18 08:36:47.865692+00:88
+Victoria,Bayles,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,10,0,0,2021-07-18 08:36:47.865692+00:89
+Victoria,Baynton ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:90
+Victoria,Bayswater ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:91
+Victoria,Bayswater North,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,8,0,0,2021-07-18 08:36:47.865692+00:92
+Victoria,Beaconsfield ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,12,0,0,2021-07-18 08:36:47.865692+00:93
+Victoria,Beaconsfield Upper,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,16,0,0,2021-07-18 08:36:47.865692+00:94
+Victoria,Bealiba,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:95
+Victoria,Bearii,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:96
+Victoria,Beaufort ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:97
+Victoria,Beaumaris ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,7,0,0,2021-07-18 08:36:47.865692+00:98
+Victoria,Beeac,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:99
+Victoria,Beech Forest,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,24,0,0,2021-07-18 08:36:47.865692+00:100
+Victoria,Beechworth,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:101
+Victoria,Belgrave,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:102
+Victoria,Belgrave Heights,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,15,0,0,2021-07-18 08:36:47.865692+00:103
+Victoria,Belgrave South,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:104
+Victoria,Bell Park,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:105
+Victoria,Bell Post Hill,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:106
+Victoria,Bellbrae,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:107
+Victoria,Bellbridge,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,23,0,0,2021-07-18 08:36:47.865692+00:108
+Victoria,Bellfield ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:109
+Victoria,Bells Beach,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,8,0,0,2021-07-18 08:36:47.865692+00:110
+Victoria,Belmont ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,6,0,0,2021-07-18 08:36:47.865692+00:111
+Victoria,Bemm River,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,20,0,0,2021-07-18 08:36:47.865692+00:112
+Victoria,Bena,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:113
+Victoria,Benalla,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:114
+Victoria,Benambra,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,13,0,0,2021-07-18 08:36:47.865692+00:115
+Victoria,Bend Of Islands,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:116
+Victoria,Bendigo,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:117
+Victoria,Bendoc,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,22,0,0,2021-07-18 08:36:47.865692+00:118
+Victoria,Bentleigh,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:119
+Victoria,Bentleigh East,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:120
+Victoria,Beremboke,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:121
+Victoria,Berringa,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:122
+Victoria,Berriwillock,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:123
+Victoria,Berwick,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,16,0,0,2021-07-18 08:36:47.865692+00:124
+Victoria,Bessiebelle,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,24,0,0,2021-07-18 08:36:47.865692+00:125
+Victoria,Bet Bet,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,15,0,0,2021-07-18 08:36:47.865692+00:126
+Victoria,Bete Bolong,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,12,0,0,2021-07-18 08:36:47.865692+00:127
+Victoria,Bethanga,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,5,0,0,2021-07-18 08:36:47.865692+00:128
+Victoria,Beulah ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:129
+Victoria,Beverford,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:130
+Victoria,Beveridge,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:131
+Victoria,Big Desert,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:132
+Victoria,Big Hill ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:133
+Victoria,Binginwarri,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,6,0,0,2021-07-18 08:36:47.865692+00:134
+Victoria,Birchip,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:135
+Victoria,Birdwoodton,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:136
+Victoria,Birregurra,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:137
+Victoria,Bittern,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:138
+Victoria,Black Hill ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:139
+Victoria,Black Rock ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,7,0,0,2021-07-18 08:36:47.865692+00:140
+Victoria,Blackburn,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:141
+Victoria,Blackburn North,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,12,0,0,2021-07-18 08:36:47.865692+00:142
+Victoria,Blackburn South,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:143
+Victoria,Blackwood ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:144
+Victoria,Blairgowrie,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:145
+Victoria,Blampied,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:146
+Victoria,Blind Bight,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:147
+Victoria,Boisdale,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,19,0,0,2021-07-18 08:36:47.865692+00:148
+Victoria,Bolwarra ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:149
+Victoria,Bonbeach,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:150
+Victoria,Bonegilla,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,21,0,0,2021-07-18 08:36:47.865692+00:151
+Victoria,Boneo,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,10,0,0,2021-07-18 08:36:47.865692+00:152
+Victoria,Bonnie Doon ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:153
+Victoria,Bonshaw ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,11,0,0,2021-07-18 08:36:47.865692+00:154
+Victoria,Bookaar,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:155
+Victoria,Boolarra,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:156
+Victoria,Boolarra South,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:157
+Victoria,Boole Poole,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:158
+Victoria,Boorcan,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:159
+Victoria,Boorhaman,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,24,0,0,2021-07-18 08:36:47.865692+00:160
+Victoria,Boort,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:161
+Victoria,Boronia,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,12,0,0,2021-07-18 08:36:47.865692+00:162
+Victoria,Bostocks Creek,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,6,0,0,2021-07-18 08:36:47.865692+00:163
+Victoria,Botanic Ridge,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,7,0,0,2021-07-18 08:36:47.865692+00:164
+Victoria,Boundary Bend,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:165
+Victoria,Bowenvale,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:166
+Victoria,Box Hill ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,20,0,0,2021-07-18 08:36:47.865692+00:167
+Victoria,Box Hill North,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:168
+Victoria,Box Hill South,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:169
+Victoria,Braeside,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,5,0,0,2021-07-18 08:36:47.865692+00:170
+Victoria,Branxholme,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:171
+Victoria,Braybrook,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:172
+Victoria,Breakwater,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,10,0,0,2021-07-18 08:36:47.865692+00:173
+Victoria,Breamlea,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:174
+Victoria,Briagolong,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,14,0,0,2021-07-18 08:36:47.865692+00:175
+Victoria,Briar Hill,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:176
+Victoria,Bridgewater ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,12,0,0,2021-07-18 08:36:47.865692+00:177
+Victoria,Bridgewater On Loddon,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,24,0,0,2021-07-18 08:36:47.865692+00:178
+Victoria,Bright ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,20,0,0,2021-07-18 08:36:47.865692+00:179
+Victoria,Brighton ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,10,0,0,2021-07-18 08:36:47.865692+00:180
+Victoria,Brighton East,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:181
+Victoria,Brim,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:182
+Victoria,Brimpaen,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,11,0,0,2021-07-18 08:36:47.865692+00:183
+Victoria,Broadford,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,18,0,0,2021-07-18 08:36:47.865692+00:184
+Victoria,Broadmeadows ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,11,0,0,2021-07-18 08:36:47.865692+00:185
+Victoria,Broadwater ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:186
+Victoria,Brookfield ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:187
+Victoria,Brooklyn ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:188
+Victoria,Broomfield,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,14,0,0,2021-07-18 08:36:47.865692+00:189
+Victoria,Brown Hill ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:190
+Victoria,Brucknell,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:191
+Victoria,Brunswick ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:192
+Victoria,Brunswick East,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:193
+Victoria,Brunswick West,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,22,0,0,2021-07-18 08:36:47.865692+00:194
+Victoria,Bruthen,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:195
+Victoria,Buangor,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,12,0,0,2021-07-18 08:36:47.865692+00:196
+Victoria,Buchan,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:197
+Victoria,Budgeree,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,6,0,0,2021-07-18 08:36:47.865692+00:198
+Victoria,Buffalo,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:199
+Victoria,Buffalo River,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,12,0,0,2021-07-18 08:36:47.865692+00:200
+Victoria,Bulart,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:201
+Victoria,Bulla ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:202
+Victoria,Bulleen,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:203
+Victoria,Bullengarook,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:204
+Victoria,Bullioh,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,16,0,0,2021-07-18 08:36:47.865692+00:205
+Victoria,Buln Buln,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:206
+Victoria,Buln Buln East,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:207
+Victoria,Bunbartha,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:208
+Victoria,Bundalaguah,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:209
+Victoria,Bundalong,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,23,0,0,2021-07-18 08:36:47.865692+00:210
+Victoria,Bundoora ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:211
+Victoria,Bungaree ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:212
+Victoria,Buninyong,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,10,0,0,2021-07-18 08:36:47.865692+00:213
+Victoria,Bunkers Hill,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:214
+Victoria,Bunyip,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,18,0,0,2021-07-18 08:36:47.865692+00:215
+Victoria,Burnley,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:216
+Victoria,Burnside ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:217
+Victoria,Burnside Heights,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:218
+Victoria,Burramine,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:219
+Victoria,Burrumbeet,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:220
+Victoria,Burwood ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,7,0,0,2021-07-18 08:36:47.865692+00:221
+Victoria,Burwood East,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:222
+Victoria,Bushfield,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,13,0,0,2021-07-18 08:36:47.865692+00:223
+Victoria,Buxton ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:224
+Victoria,Byaduk,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,16,0,0,2021-07-18 08:36:47.865692+00:225
+Victoria,Byawatha,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:226
+Victoria,Byrneside,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:227
+Victoria,Cabarita ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,9,0,0,2021-07-18 08:36:47.865692+00:228
+Victoria,Cairnlea,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:229
+Victoria,Calder Park,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:230
+Victoria,Caldermeade,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,19,0,0,2021-07-18 08:36:47.865692+00:231
+Victoria,California Gully,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:232
+Victoria,Calivil,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:233
+Victoria,Callignee,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,17,0,0,2021-07-18 08:36:47.865692+00:234
+Victoria,Calulu,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,19,0,0,2021-07-18 08:36:47.865692+00:235
+Victoria,Camberwell ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:236
+Victoria,Cambrian Hill,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:237
+Victoria,Campbellfield,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:238
+Victoria,Campbells Creek,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:239
+Victoria,Camperdown ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:240
+Victoria,Canadian,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,5,0,0,2021-07-18 08:36:47.865692+00:241
+Victoria,Cann River,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,20,0,0,2021-07-18 08:36:47.865692+00:242
+Victoria,Cannons Creek,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:243
+Victoria,Canterbury ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:244
+Victoria,Cape Bridgewater,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:245
+Victoria,Cape Paterson,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,10,0,0,2021-07-18 08:36:47.865692+00:246
+Victoria,Cape Schanck,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:247
+Victoria,Cape Woolamai,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,5,0,0,2021-07-18 08:36:47.865692+00:248
+Victoria,Caramut,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:249
+Victoria,Carapooee,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:250
+Victoria,Carboor,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,8,0,0,2021-07-18 08:36:47.865692+00:251
+Victoria,Cardigan,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:252
+Victoria,Cardigan Village,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:253
+Victoria,Cardinia,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,12,0,0,2021-07-18 08:36:47.865692+00:254
+Victoria,Cardross,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:255
+Victoria,Carisbrook,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,16,0,0,2021-07-18 08:36:47.865692+00:256
+Victoria,Carlsruhe,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:257
+Victoria,Carlton ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:258
+Victoria,Carlton North,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:259
+Victoria,Carnegie,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:260
+Victoria,Carngham,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,23,0,0,2021-07-18 08:36:47.865692+00:261
+Victoria,Caroline Springs,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:262
+Victoria,Carrajung,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:263
+Victoria,Carrum,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:264
+Victoria,Carrum Downs,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:265
+Victoria,Castella,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,11,0,0,2021-07-18 08:36:47.865692+00:266
+Victoria,Casterton,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:267
+Victoria,Castle Donnington,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:268
+Victoria,Castlemaine,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,5,0,0,2021-07-18 08:36:47.865692+00:269
+Victoria,Catani,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,12,0,0,2021-07-18 08:36:47.865692+00:270
+Victoria,Cathcart ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,23,0,0,2021-07-18 08:36:47.865692+00:271
+Victoria,Caulfield,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:272
+Victoria,Caulfield East,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:273
+Victoria,Caulfield North,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:274
+Victoria,Caulfield South,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:275
+Victoria,Cavendish,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,20,0,0,2021-07-18 08:36:47.865692+00:276
+Victoria,Ceres,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,7,0,0,2021-07-18 08:36:47.865692+00:277
+Victoria,Chadstone,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:278
+Victoria,Charlton ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,22,0,0,2021-07-18 08:36:47.865692+00:279
+Victoria,Chelsea,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:280
+Victoria,Chelsea Heights,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,21,0,0,2021-07-18 08:36:47.865692+00:281
+Victoria,Cheltenham ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,19,0,0,2021-07-18 08:36:47.865692+00:282
+Victoria,Chepstowe,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:283
+Victoria,Cheshunt,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:284
+Victoria,Chewton,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:285
+Victoria,Childers ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:286
+Victoria,Chiltern,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:287
+Victoria,Chirnside Park,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:288
+Victoria,Christmas Hills ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,13,0,0,2021-07-18 08:36:47.865692+00:289
+Victoria,Chum Creek,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,7,0,0,2021-07-18 08:36:47.865692+00:290
+Victoria,Churchill ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:291
+Victoria,Clarendon ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:292
+Victoria,Clarinda,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:293
+Victoria,Clarkefield,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,9,0,0,2021-07-18 08:36:47.865692+00:294
+Victoria,Clayton,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,17,0,0,2021-07-18 08:36:47.865692+00:295
+Victoria,Clayton South,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,11,0,0,2021-07-18 08:36:47.865692+00:296
+Victoria,Clematis,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,13,0,0,2021-07-18 08:36:47.865692+00:297
+Victoria,Clifton Creek,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,13,0,0,2021-07-18 08:36:47.865692+00:298
+Victoria,Clifton Hill,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:299
+Victoria,Clifton Springs,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:300
+Victoria,Clonbinane,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:301
+Victoria,Cloverlea,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,6,0,0,2021-07-18 08:36:47.865692+00:302
+Victoria,Clunes ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:303
+Victoria,Clyde ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,14,0,0,2021-07-18 08:36:47.865692+00:304
+Victoria,Cobains,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,6,0,0,2021-07-18 08:36:47.865692+00:305
+Victoria,Cobden,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:306
+Victoria,Cobram,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,23,0,0,2021-07-18 08:36:47.865692+00:307
+Victoria,Cobram East,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:308
+Victoria,Cobrico,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:309
+Victoria,Coburg,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,8,0,0,2021-07-18 08:36:47.865692+00:310
+Victoria,Coburg North,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:311
+Victoria,Cockatoo ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,21,0,0,2021-07-18 08:36:47.865692+00:312
+Victoria,Cocoroc,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:313
+Victoria,Cohuna,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:314
+Victoria,Coimadai,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:315
+Victoria,Colac,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,10,0,0,2021-07-18 08:36:47.865692+00:316
+Victoria,Colac East,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,10,0,0,2021-07-18 08:36:47.865692+00:317
+Victoria,Colac West,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:318
+Victoria,Colbinabbin,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:319
+Victoria,Coldstream ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:320
+Victoria,Coleraine,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:321
+Victoria,Colignan,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,13,0,0,2021-07-18 08:36:47.865692+00:322
+Victoria,Collingwood ,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:323
+Victoria,Concongella,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,21,0,0,2021-07-18 08:36:47.865692+00:324
+Victoria,Condah,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:325
+Victoria,Congupna,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,8,0,0,2021-07-18 08:36:47.865692+00:326
+Victoria,Connewarre,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:327
+Victoria,Coolaroo,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:328
+Victoria,Coongulla,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,6,0,0,2021-07-18 08:36:47.865692+00:329
+Victoria,Cooriemungle,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:330
+Victoria,Cora Lynn,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:331
+Victoria,Coragulac,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:332
+Victoria,Corinella ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:333
+Victoria,Corio,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:334
+Victoria,Coronet Bay,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:335
+Victoria,Corop,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,11,0,0,2021-07-18 08:36:47.865692+00:336
+Victoria,Cororooke,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,16,0,0,2021-07-18 08:36:47.865692+00:337
+Victoria,Corryong,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,5,0,0,2021-07-18 08:36:47.865692+00:338
+Victoria,Cottles Bridge,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:339
+Victoria,Cowes,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,21,0,0,2021-07-18 08:36:47.865692+00:340
+Victoria,Cowwarr,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:341
+Victoria,Craigieburn,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:342
+Victoria,Cranbourne,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,11,0,0,2021-07-18 08:36:47.865692+00:343
+Victoria,Cranbourne East,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:344
+Victoria,Cranbourne North,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:345
+Victoria,Cranbourne South,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:346
+Victoria,Cranbourne West,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:347
+Victoria,Cremorne ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,23,0,0,2021-07-18 08:36:47.865692+00:348
+Victoria,Cressy ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,14,0,0,2021-07-18 08:36:47.865692+00:349
+Victoria,Creswick,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,22,0,0,2021-07-18 08:36:47.865692+00:350
+Victoria,Crib Point,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:351
+Victoria,Crossley,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:352
+Victoria,Croydon ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:353
+Victoria,Croydon Hills,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,21,0,0,2021-07-18 08:36:47.865692+00:354
+Victoria,Croydon North,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,11,0,0,2021-07-18 08:36:47.865692+00:355
+Victoria,Croydon South,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:356
+Victoria,Cudgee,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:357
+Victoria,Cudgewa,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,9,0,0,2021-07-18 08:36:47.865692+00:358
+Victoria,Culgoa,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:359
+Victoria,Curlewis ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,14,0,0,2021-07-18 08:36:47.865692+00:360
+Victoria,Daisy Hill ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,7,0,0,2021-07-18 08:36:47.865692+00:361
+Victoria,Dales Creek,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,5,0,0,2021-07-18 08:36:47.865692+00:362
+Victoria,Dallas,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:363
+Victoria,Dalyston,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,16,0,0,2021-07-18 08:36:47.865692+00:364
+Victoria,Dandenong,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,21,0,0,2021-07-18 08:36:47.865692+00:365
+Victoria,Dandenong North,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:366
+Victoria,Dandenong South,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,12,0,0,2021-07-18 08:36:47.865692+00:367
+Victoria,Dargo,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,13,0,0,2021-07-18 08:36:47.865692+00:368
+Victoria,Darley,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,8,0,0,2021-07-18 08:36:47.865692+00:369
+Victoria,Darnum,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:370
+Victoria,Darraweit Guim,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,23,0,0,2021-07-18 08:36:47.865692+00:371
+Victoria,Dartmoor ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:372
+Victoria,Daylesford,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:373
+Victoria,Dean,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:374
+Victoria,Deans Marsh,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:375
+Victoria,Dederang,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:376
+Victoria,Deep Lead,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:377
+Victoria,Deepdene ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:378
+Victoria,Deer Park,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:379
+Victoria,Delacombe,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,23,0,0,2021-07-18 08:36:47.865692+00:380
+Victoria,Delahey,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,7,0,0,2021-07-18 08:36:47.865692+00:381
+Victoria,Denison,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:382
+Victoria,Dennington,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,9,0,0,2021-07-18 08:36:47.865692+00:383
+Victoria,Dereel,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:384
+Victoria,Derrimut,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:385
+Victoria,Derrinallum,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:386
+Victoria,Devenish,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,22,0,0,2021-07-18 08:36:47.865692+00:387
+Victoria,Devon Meadows,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,7,0,0,2021-07-18 08:36:47.865692+00:388
+Victoria,Devon North,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:389
+Victoria,Dewhurst,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:390
+Victoria,Dhurringile,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:391
+Victoria,Diamond Creek,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:392
+Victoria,Digby,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:393
+Victoria,Diggers Rest,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,11,0,0,2021-07-18 08:36:47.865692+00:394
+Victoria,Diggora,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:395
+Victoria,Dimboola,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,11,0,0,2021-07-18 08:36:47.865692+00:396
+Victoria,Dingee,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:397
+Victoria,Dingley Village,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,23,0,0,2021-07-18 08:36:47.865692+00:398
+Victoria,Dinner Plain,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:399
+Victoria,Dixons Creek,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:400
+Victoria,Docklands,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:401
+Victoria,Don Valley,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,11,0,0,2021-07-18 08:36:47.865692+00:402
+Victoria,Donald,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:403
+Victoria,Doncaster,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,20,0,0,2021-07-18 08:36:47.865692+00:404
+Victoria,Doncaster East,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,10,0,0,2021-07-18 08:36:47.865692+00:405
+Victoria,Donvale,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:406
+Victoria,Dookie,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:407
+Victoria,Doreen,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:408
+Victoria,Douglas ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,12,0,0,2021-07-18 08:36:47.865692+00:409
+Victoria,Doveton,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:410
+Victoria,Dreeite,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:411
+Victoria,Dromana,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:412
+Victoria,Drouin,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,24,0,0,2021-07-18 08:36:47.865692+00:413
+Victoria,Drouin East,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,19,0,0,2021-07-18 08:36:47.865692+00:414
+Victoria,Drouin South,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:415
+Victoria,Drouin West,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:416
+Victoria,Drumborg,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:417
+Victoria,Drumcondra,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,7,0,0,2021-07-18 08:36:47.865692+00:418
+Victoria,Drummond,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,20,0,0,2021-07-18 08:36:47.865692+00:419
+Victoria,Drung,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:420
+Victoria,Drysdale,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,10,0,0,2021-07-18 08:36:47.865692+00:421
+Victoria,Dumbalk,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,23,0,0,2021-07-18 08:36:47.865692+00:422
+Victoria,Dunkeld ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,7,0,0,2021-07-18 08:36:47.865692+00:423
+Victoria,Dunnstown,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,22,0,0,2021-07-18 08:36:47.865692+00:424
+Victoria,Dunolly ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:425
+Victoria,Durham Lead,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,15,0,0,2021-07-18 08:36:47.865692+00:426
+Victoria,Eagle Point,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,6,0,0,2021-07-18 08:36:47.865692+00:427
+Victoria,Eaglehawk,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:428
+Victoria,Eaglemont,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,11,0,0,2021-07-18 08:36:47.865692+00:429
+Victoria,East Bairnsdale,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:430
+Victoria,East Bendigo,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,6,0,0,2021-07-18 08:36:47.865692+00:431
+Victoria,East Geelong,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,15,0,0,2021-07-18 08:36:47.865692+00:432
+Victoria,East Melbourne,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,20,0,0,2021-07-18 08:36:47.865692+00:433
+Victoria,East Sale,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:434
+Victoria,East Wangaratta,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:435
+Victoria,East Warburton,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:436
+Victoria,Eastwood ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:437
+Victoria,Ebden,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:438
+Victoria,Echuca,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,21,0,0,2021-07-18 08:36:47.865692+00:439
+Victoria,Echuca Village,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:440
+Victoria,Echuca West,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,20,0,0,2021-07-18 08:36:47.865692+00:441
+Victoria,Ecklin South,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:442
+Victoria,Eden Park,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:443
+Victoria,Edenhope,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,14,0,0,2021-07-18 08:36:47.865692+00:444
+Victoria,Edithvale,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,10,0,0,2021-07-18 08:36:47.865692+00:445
+Victoria,Eganstown,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,9,0,0,2021-07-18 08:36:47.865692+00:446
+Victoria,Eildon,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:447
+Victoria,Elaine,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:448
+Victoria,Eldorado,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:449
+Victoria,Ellerslie ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:450
+Victoria,Elliminyt,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:451
+Victoria,Ellinbank,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:452
+Victoria,Elmhurst,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,23,0,0,2021-07-18 08:36:47.865692+00:453
+Victoria,Elmore,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:454
+Victoria,Elphinstone ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:455
+Victoria,Elsternwick,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:456
+Victoria,Eltham ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:457
+Victoria,Eltham North,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:458
+Victoria,Elwood,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,10,0,0,2021-07-18 08:36:47.865692+00:459
+Victoria,Emerald ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,22,0,0,2021-07-18 08:36:47.865692+00:460
+Victoria,Emu Creek ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:461
+Victoria,Endeavour Hills,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:462
+Victoria,Enfield ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:463
+Victoria,Eppalock,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:464
+Victoria,Epping ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:465
+Victoria,Epsom ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,9,0,0,2021-07-18 08:36:47.865692+00:466
+Victoria,Erica,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,15,0,0,2021-07-18 08:36:47.865692+00:467
+Victoria,Eskdale ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,11,0,0,2021-07-18 08:36:47.865692+00:468
+Victoria,Essendon,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:469
+Victoria,Essendon Fields,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,14,0,0,2021-07-18 08:36:47.865692+00:470
+Victoria,Essendon North,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,20,0,0,2021-07-18 08:36:47.865692+00:471
+Victoria,Essendon West,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,15,0,0,2021-07-18 08:36:47.865692+00:472
+Victoria,Eumemmerring,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:473
+Victoria,Eureka ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,11,0,0,2021-07-18 08:36:47.865692+00:474
+Victoria,Euroa,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:475
+Victoria,Eurobin,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,13,0,0,2021-07-18 08:36:47.865692+00:476
+Victoria,Everton,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:477
+Victoria,Eynesbury,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:478
+Victoria,Fairfield ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,13,0,0,2021-07-18 08:36:47.865692+00:479
+Victoria,Fairhaven,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,22,0,0,2021-07-18 08:36:47.865692+00:480
+Victoria,Falls Creek ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:481
+Victoria,Faraday,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:482
+Victoria,Fawkner,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,11,0,0,2021-07-18 08:36:47.865692+00:483
+Victoria,Fernbank,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,5,0,0,2021-07-18 08:36:47.865692+00:484
+Victoria,Ferntree Gully,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:485
+Victoria,Ferny Creek,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:486
+Victoria,Fingal ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:487
+Victoria,Fish Creek,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:488
+Victoria,Fitzroy ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:489
+Victoria,Fitzroy North,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:490
+Victoria,Flemington,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,19,0,0,2021-07-18 08:36:47.865692+00:491
+Victoria,Flinders ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,20,0,0,2021-07-18 08:36:47.865692+00:492
+Victoria,Flora Hill,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,7,0,0,2021-07-18 08:36:47.865692+00:493
+Victoria,Flowerdale ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,24,0,0,2021-07-18 08:36:47.865692+00:494
+Victoria,Footscray,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:495
+Victoria,Forest Hill ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,21,0,0,2021-07-18 08:36:47.865692+00:496
+Victoria,Forge Creek,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:497
+Victoria,Forrest ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,22,0,0,2021-07-18 08:36:47.865692+00:498
+Victoria,Foster,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:499
+Victoria,Framlingham,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,9,0,0,2021-07-18 08:36:47.865692+00:500
+Victoria,Frankston,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,15,0,0,2021-07-18 08:36:47.865692+00:501
+Victoria,Frankston North,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:502
+Victoria,Frankston South,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:503
+Victoria,Freeburgh,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:504
+Victoria,French Island,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,23,0,0,2021-07-18 08:36:47.865692+00:505
+Victoria,Freshwater Creek,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:506
+Victoria,Fryerstown,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,21,0,0,2021-07-18 08:36:47.865692+00:507
+Victoria,Fulham ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:508
+Victoria,Fyansford,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:509
+Victoria,Gannawarra,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,8,0,0,2021-07-18 08:36:47.865692+00:510
+Victoria,Gapsted,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,14,0,0,2021-07-18 08:36:47.865692+00:511
+Victoria,Gardenvale,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:512
+Victoria,Garfield ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:513
+Victoria,Garfield North,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,7,0,0,2021-07-18 08:36:47.865692+00:514
+Victoria,Garibaldi,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:515
+Victoria,Garvoc,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:516
+Victoria,Geelong,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,18,0,0,2021-07-18 08:36:47.865692+00:517
+Victoria,Geelong West,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,11,0,0,2021-07-18 08:36:47.865692+00:518
+Victoria,Gellibrand,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:519
+Victoria,Gembrook,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,10,0,0,2021-07-18 08:36:47.865692+00:520
+Victoria,Genoa,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,24,0,0,2021-07-18 08:36:47.865692+00:521
+Victoria,Gentle Annie,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:522
+Victoria,Gerang Gerung,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:523
+Victoria,Gherang,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:524
+Victoria,Gheringhap,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:525
+Victoria,Girgarre,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:526
+Victoria,Gisborne,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,15,0,0,2021-07-18 08:36:47.865692+00:527
+Victoria,Gisborne South,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:528
+Victoria,Gladstone Park,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:529
+Victoria,Gladysdale,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,7,0,0,2021-07-18 08:36:47.865692+00:530
+Victoria,Glen Alvie,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,18,0,0,2021-07-18 08:36:47.865692+00:531
+Victoria,Glen Huntly,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:532
+Victoria,Glen Iris ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:533
+Victoria,Glen Waverley,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,11,0,0,2021-07-18 08:36:47.865692+00:534
+Victoria,Glenalbyn,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:535
+Victoria,Glenburn,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:536
+Victoria,Glenfyne,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,6,0,0,2021-07-18 08:36:47.865692+00:537
+Victoria,Glengarry ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:538
+Victoria,Glengarry North,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,18,0,0,2021-07-18 08:36:47.865692+00:539
+Victoria,Glenisla,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,23,0,0,2021-07-18 08:36:47.865692+00:540
+Victoria,Glenlyon ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:541
+Victoria,Glenmaggie,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:542
+Victoria,Glenorchy ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:543
+Victoria,Glenormiston South,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:544
+Victoria,Glenrowan,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:545
+Victoria,Glenroy ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:546
+Victoria,Glenthompson,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:547
+Victoria,Gnarwarre,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,22,0,0,2021-07-18 08:36:47.865692+00:548
+Victoria,Golden Beach ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,14,0,0,2021-07-18 08:36:47.865692+00:549
+Victoria,Golden Gully,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:550
+Victoria,Golden Point ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:551
+Victoria,Golden Square,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,10,0,0,2021-07-18 08:36:47.865692+00:552
+Victoria,Goldie,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:553
+Victoria,Goon Nure,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:554
+Victoria,Goorambat,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,20,0,0,2021-07-18 08:36:47.865692+00:555
+Victoria,Goornong,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,20,0,0,2021-07-18 08:36:47.865692+00:556
+Victoria,Gorae West,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,24,0,0,2021-07-18 08:36:47.865692+00:557
+Victoria,Gordon ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:558
+Victoria,Gormandale,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,18,0,0,2021-07-18 08:36:47.865692+00:559
+Victoria,Goroke,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,11,0,0,2021-07-18 08:36:47.865692+00:560
+Victoria,Goughs Bay,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,21,0,0,2021-07-18 08:36:47.865692+00:561
+Victoria,Gowanbrae,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:562
+Victoria,Grahamvale,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:563
+Victoria,Granite Rock,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,6,0,0,2021-07-18 08:36:47.865692+00:564
+Victoria,Grantville,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:565
+Victoria,Grassdale ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:566
+Victoria,Grassmere,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:567
+Victoria,Great Western,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,8,0,0,2021-07-18 08:36:47.865692+00:568
+Victoria,Greendale ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:569
+Victoria,Greensborough,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,15,0,0,2021-07-18 08:36:47.865692+00:570
+Victoria,Greenvale ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:571
+Victoria,Greta South,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:572
+Victoria,Greta West,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,14,0,0,2021-07-18 08:36:47.865692+00:573
+Victoria,Grovedale,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,23,0,0,2021-07-18 08:36:47.865692+00:574
+Victoria,Gruyere,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:575
+Victoria,Guildford ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,22,0,0,2021-07-18 08:36:47.865692+00:576
+Victoria,Gunbower,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:577
+Victoria,Gundowring,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:578
+Victoria,Guys Hill,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:579
+Victoria,Haddon,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,9,0,0,2021-07-18 08:36:47.865692+00:580
+Victoria,Hadfield,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,21,0,0,2021-07-18 08:36:47.865692+00:581
+Victoria,Hallam,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:582
+Victoria,Hallora,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,21,0,0,2021-07-18 08:36:47.865692+00:583
+Victoria,Halls Gap,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,10,0,0,2021-07-18 08:36:47.865692+00:584
+Victoria,Hallston,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:585
+Victoria,Hamilton ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:586
+Victoria,Hamlyn Heights,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:587
+Victoria,Hampton ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,9,0,0,2021-07-18 08:36:47.865692+00:588
+Victoria,Hampton East,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:589
+Victoria,Hampton Park,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:590
+Victoria,Harcourt,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,21,0,0,2021-07-18 08:36:47.865692+00:591
+Victoria,Harcourt North,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,9,0,0,2021-07-18 08:36:47.865692+00:592
+Victoria,Harkaway,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:593
+Victoria,Harmers Haven,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:594
+Victoria,Harrietville,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:595
+Victoria,Harrow,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:596
+Victoria,Harston,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:597
+Victoria,Hastings ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:598
+Victoria,Hattah,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:599
+Victoria,Haven,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,5,0,0,2021-07-18 08:36:47.865692+00:600
+Victoria,Hawkesdale,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,16,0,0,2021-07-18 08:36:47.865692+00:601
+Victoria,Hawthorn ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:602
+Victoria,Hawthorn East,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:603
+Victoria,Hazeldene,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:604
+Victoria,Hazelwood,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:605
+Victoria,Hazelwood North,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:606
+Victoria,Hazelwood South,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:607
+Victoria,Healesville,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:608
+Victoria,Heath Hill,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,7,0,0,2021-07-18 08:36:47.865692+00:609
+Victoria,Heathcote ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:610
+Victoria,Heathcote Junction,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,22,0,0,2021-07-18 08:36:47.865692+00:611
+Victoria,Heatherton,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,5,0,0,2021-07-18 08:36:47.865692+00:612
+Victoria,Heathmere,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:613
+Victoria,Heathmont,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,9,0,0,2021-07-18 08:36:47.865692+00:614
+Victoria,Heidelberg,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,20,0,0,2021-07-18 08:36:47.865692+00:615
+Victoria,Heidelberg Heights,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,7,0,0,2021-07-18 08:36:47.865692+00:616
+Victoria,Heidelberg West,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,18,0,0,2021-07-18 08:36:47.865692+00:617
+Victoria,Hepburn,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,23,0,0,2021-07-18 08:36:47.865692+00:618
+Victoria,Hepburn Springs,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,10,0,0,2021-07-18 08:36:47.865692+00:619
+Victoria,Herne Hill ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:620
+Victoria,Hernes Oak,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:621
+Victoria,Hesket,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,8,0,0,2021-07-18 08:36:47.865692+00:622
+Victoria,Hexham ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:623
+Victoria,Heyfield,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:624
+Victoria,Heywood,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:625
+Victoria,Highett,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:626
+Victoria,Highlands,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,16,0,0,2021-07-18 08:36:47.865692+00:627
+Victoria,Highton,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:628
+Victoria,Hill End ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:629
+Victoria,Hilldene,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,9,0,0,2021-07-18 08:36:47.865692+00:630
+Victoria,Hillside ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,23,0,0,2021-07-18 08:36:47.865692+00:631
+Victoria,Hmas Cerberus,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:632
+Victoria,Hoddles Creek,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:633
+Victoria,Hopetoun ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:634
+Victoria,Hopetoun Park,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:635
+Victoria,Hoppers Crossing,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,17,0,0,2021-07-18 08:36:47.865692+00:636
+Victoria,Horsham,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:637
+Victoria,Hotham Heights,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,7,0,0,2021-07-18 08:36:47.865692+00:638
+Victoria,Howqua Hills,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,18,0,0,2021-07-18 08:36:47.865692+00:639
+Victoria,Howqua Inlet,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,8,0,0,2021-07-18 08:36:47.865692+00:640
+Victoria,Hughesdale,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:641
+Victoria,Humevale,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,19,0,0,2021-07-18 08:36:47.865692+00:642
+Victoria,Hunter,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,21,0,0,2021-07-18 08:36:47.865692+00:643
+Victoria,Huntingdale ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:644
+Victoria,Huntly,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:645
+Victoria,Huon,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,13,0,0,2021-07-18 08:36:47.865692+00:646
+Victoria,Huon Creek,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:647
+Victoria,Hurstbridge,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:648
+Victoria,Illowa,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:649
+Victoria,Indented Head,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,7,0,0,2021-07-18 08:36:47.865692+00:650
+Victoria,Indigo Valley,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:651
+Victoria,Inglewood ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:652
+Victoria,Invergordon ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,21,0,0,2021-07-18 08:36:47.865692+00:653
+Victoria,Inverleigh,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,10,0,0,2021-07-18 08:36:47.865692+00:654
+Victoria,Inverloch,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,5,0,0,2021-07-18 08:36:47.865692+00:655
+Victoria,Invermay ,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,11,0,0,2021-07-18 08:36:47.865692+00:656
+Victoria,Invermay Park,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:657
+Victoria,Iona,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:658
+Victoria,Ironbark ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:659
+Victoria,Irrewarra,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:660
+Victoria,Irymple ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,23,0,0,2021-07-18 08:36:47.865692+00:661
+Victoria,Ivanhoe ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,5,0,0,2021-07-18 08:36:47.865692+00:662
+Victoria,Ivanhoe East,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,12,0,0,2021-07-18 08:36:47.865692+00:663
+Victoria,Jacana,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,22,0,0,2021-07-18 08:36:47.865692+00:664
+Victoria,Jack River,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:665
+Victoria,Jackass Flat,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,11,0,0,2021-07-18 08:36:47.865692+00:666
+Victoria,Jamieson ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:667
+Victoria,Jan Juc,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,11,0,0,2021-07-18 08:36:47.865692+00:668
+Victoria,Jancourt East,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,24,0,0,2021-07-18 08:36:47.865692+00:669
+Victoria,Jeeralang Junction,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:670
+Victoria,Jeparit,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,13,0,0,2021-07-18 08:36:47.865692+00:671
+Victoria,Jindivick,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:672
+Victoria,Johanna,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:673
+Victoria,Johnsonville,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:674
+Victoria,Junction Village,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,21,0,0,2021-07-18 08:36:47.865692+00:675
+Victoria,Jung,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,9,0,0,2021-07-18 08:36:47.865692+00:676
+Victoria,Junortoun,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:677
+Victoria,Kaarimba,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:678
+Victoria,Kalimna,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:679
+Victoria,Kallista,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,17,0,0,2021-07-18 08:36:47.865692+00:680
+Victoria,Kalorama,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,15,0,0,2021-07-18 08:36:47.865692+00:681
+Victoria,Kangaroo Flat ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,10,0,0,2021-07-18 08:36:47.865692+00:682
+Victoria,Kangaroo Ground,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:683
+Victoria,Kaniva,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:684
+Victoria,Kanyapella,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:685
+Victoria,Kardella,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:686
+Victoria,Katamatite,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:687
+Victoria,Katandra West,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,7,0,0,2021-07-18 08:36:47.865692+00:688
+Victoria,Katunga,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,12,0,0,2021-07-18 08:36:47.865692+00:689
+Victoria,Kealba,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,18,0,0,2021-07-18 08:36:47.865692+00:690
+Victoria,Keely,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:691
+Victoria,Keilor,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:692
+Victoria,Keilor Downs,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:693
+Victoria,Keilor East,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,23,0,0,2021-07-18 08:36:47.865692+00:694
+Victoria,Keilor Lodge,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:695
+Victoria,Keilor North,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:696
+Victoria,Keilor Park,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:697
+Victoria,Kennington,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:698
+Victoria,Kensington ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:699
+Victoria,Kerang,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:700
+Victoria,Kergunyah,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:701
+Victoria,Kew ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:702
+Victoria,Kew East,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,14,0,0,2021-07-18 08:36:47.865692+00:703
+Victoria,Keysborough,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,23,0,0,2021-07-18 08:36:47.865692+00:704
+Victoria,Kialla,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:705
+Victoria,Kialla East,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:706
+Victoria,Kialla West,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:707
+Victoria,Kiewa,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,17,0,0,2021-07-18 08:36:47.865692+00:708
+Victoria,Kilcunda,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,10,0,0,2021-07-18 08:36:47.865692+00:709
+Victoria,Kilmore,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:710
+Victoria,Kilmore East,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:711
+Victoria,Kilsyth,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:712
+Victoria,Kilsyth South,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,15,0,0,2021-07-18 08:36:47.865692+00:713
+Victoria,King Valley,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,16,0,0,2021-07-18 08:36:47.865692+00:714
+Victoria,Kinglake,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,18,0,0,2021-07-18 08:36:47.865692+00:715
+Victoria,Kinglake Central,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,6,0,0,2021-07-18 08:36:47.865692+00:716
+Victoria,Kinglake West,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,16,0,0,2021-07-18 08:36:47.865692+00:717
+Victoria,Kings Park ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,18,0,0,2021-07-18 08:36:47.865692+00:718
+Victoria,Kingsbury,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:719
+Victoria,Kingston ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:720
+Victoria,Kingsville,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:721
+Victoria,Kirkstall,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,6,0,0,2021-07-18 08:36:47.865692+00:722
+Victoria,Kirwans Bridge,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,15,0,0,2021-07-18 08:36:47.865692+00:723
+Victoria,Knowsley,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:724
+Victoria,Knoxfield,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,17,0,0,2021-07-18 08:36:47.865692+00:725
+Victoria,Kolora,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,14,0,0,2021-07-18 08:36:47.865692+00:726
+Victoria,Konongwootong,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:727
+Victoria,Koo Wee Rup,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:728
+Victoria,Koondrook,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:729
+Victoria,Koonoomoo,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,8,0,0,2021-07-18 08:36:47.865692+00:730
+Victoria,Koonwarra,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:731
+Victoria,Koorlong,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:732
+Victoria,Kooyong,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:733
+Victoria,Korobeit,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:734
+Victoria,Koroit,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:735
+Victoria,Korong Vale,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:736
+Victoria,Korumburra,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:737
+Victoria,Korweinguboora,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:738
+Victoria,Kotupna,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,23,0,0,2021-07-18 08:36:47.865692+00:739
+Victoria,Koyuga,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,8,0,0,2021-07-18 08:36:47.865692+00:740
+Victoria,Krowera,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:741
+Victoria,Kurunjang,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:742
+Victoria,Kyabram,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:743
+Victoria,Kyneton,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:744
+Victoria,Kyvalley,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:745
+Victoria,Laang,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,23,0,0,2021-07-18 08:36:47.865692+00:746
+Victoria,Labertouche,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:747
+Victoria,Laceby,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:748
+Victoria,Laharum,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,13,0,0,2021-07-18 08:36:47.865692+00:749
+Victoria,Lake Boga,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:750
+Victoria,Lake Bolac,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:751
+Victoria,Lake Bunga,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,22,0,0,2021-07-18 08:36:47.865692+00:752
+Victoria,Lake Charm,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:753
+Victoria,Lake Gardens,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:754
+Victoria,Lake Tyers Beach,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:755
+Victoria,Lake Wellington,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:756
+Victoria,Lake Wendouree,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,7,0,0,2021-07-18 08:36:47.865692+00:757
+Victoria,Lakes Entrance,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:758
+Victoria,Lal Lal,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,14,0,0,2021-07-18 08:36:47.865692+00:759
+Victoria,Lalbert,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:760
+Victoria,Lalor,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,21,0,0,2021-07-18 08:36:47.865692+00:761
+Victoria,Lancaster,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,15,0,0,2021-07-18 08:36:47.865692+00:762
+Victoria,Lance Creek,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:763
+Victoria,Lancefield,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,20,0,0,2021-07-18 08:36:47.865692+00:764
+Victoria,Landsborough ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,14,0,0,2021-07-18 08:36:47.865692+00:765
+Victoria,Lang Lang,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:766
+Victoria,Langkoop,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,8,0,0,2021-07-18 08:36:47.865692+00:767
+Victoria,Langwarrin,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:768
+Victoria,Langwarrin South,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,20,0,0,2021-07-18 08:36:47.865692+00:769
+Victoria,Lara,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:770
+Victoria,Larpent,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,19,0,0,2021-07-18 08:36:47.865692+00:771
+Victoria,Larralea,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:772
+Victoria,Launching Place,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:773
+Victoria,Lauriston,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:774
+Victoria,Laverton ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:775
+Victoria,Laverton North,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:776
+Victoria,Learmonth ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:777
+Victoria,Leichardt,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:778
+Victoria,Leitchville,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:779
+Victoria,Lemnos,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:780
+Victoria,Leneva,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,8,0,0,2021-07-18 08:36:47.865692+00:781
+Victoria,Leongatha,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:782
+Victoria,Leongatha North,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,18,0,0,2021-07-18 08:36:47.865692+00:783
+Victoria,Leongatha South,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:784
+Victoria,Leopold,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:785
+Victoria,Lethbridge,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:786
+Victoria,Lexton,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,8,0,0,2021-07-18 08:36:47.865692+00:787
+Victoria,Licola,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,11,0,0,2021-07-18 08:36:47.865692+00:788
+Victoria,Lilydale ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,18,0,0,2021-07-18 08:36:47.865692+00:789
+Victoria,Lindenow,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,20,0,0,2021-07-18 08:36:47.865692+00:790
+Victoria,Lindenow South,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:791
+Victoria,Linton,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:792
+Victoria,Lismore ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,13,0,0,2021-07-18 08:36:47.865692+00:793
+Victoria,Little Desert,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,12,0,0,2021-07-18 08:36:47.865692+00:794
+Victoria,Little River ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:795
+Victoria,Loch,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,22,0,0,2021-07-18 08:36:47.865692+00:796
+Victoria,Loch Sport,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:797
+Victoria,Lockington,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:798
+Victoria,Lockwood,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,21,0,0,2021-07-18 08:36:47.865692+00:799
+Victoria,Lockwood South,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,19,0,0,2021-07-18 08:36:47.865692+00:800
+Victoria,Long Forest,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,8,0,0,2021-07-18 08:36:47.865692+00:801
+Victoria,Long Gully,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:802
+Victoria,Longford ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,6,0,0,2021-07-18 08:36:47.865692+00:803
+Victoria,Longlea,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:804
+Victoria,Longwarry,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:805
+Victoria,Longwood ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,7,0,0,2021-07-18 08:36:47.865692+00:806
+Victoria,Lorne ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,21,0,0,2021-07-18 08:36:47.865692+00:807
+Victoria,Lovely Banks,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,5,0,0,2021-07-18 08:36:47.865692+00:808
+Victoria,Lower Plenty,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,12,0,0,2021-07-18 08:36:47.865692+00:809
+Victoria,Lucknow ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:810
+Victoria,Lurg,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:811
+Victoria,Lyal,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:812
+Victoria,Lynbrook,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:813
+Victoria,Lyndhurst ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:814
+Victoria,Lyonville,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,18,0,0,2021-07-18 08:36:47.865692+00:815
+Victoria,Lysterfield,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:816
+Victoria,Lysterfield South,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,19,0,0,2021-07-18 08:36:47.865692+00:817
+Victoria,Macarthur ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:818
+Victoria,Macclesfield ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,7,0,0,2021-07-18 08:36:47.865692+00:819
+Victoria,Macedon,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:820
+Victoria,Macleod ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,6,0,0,2021-07-18 08:36:47.865692+00:821
+Victoria,Maddingley,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,18,0,0,2021-07-18 08:36:47.865692+00:822
+Victoria,Maffra ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:823
+Victoria,Magpie,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:824
+Victoria,Maiden Gully,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:825
+Victoria,Maidstone,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:826
+Victoria,Mailors Flat,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,10,0,0,2021-07-18 08:36:47.865692+00:827
+Victoria,Main Ridge,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,5,0,0,2021-07-18 08:36:47.865692+00:828
+Victoria,Majorca,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,24,0,0,2021-07-18 08:36:47.865692+00:829
+Victoria,Maldon ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:830
+Victoria,Mallacoota,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:831
+Victoria,Malmsbury,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:832
+Victoria,Malvern ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:833
+Victoria,Malvern East,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:834
+Victoria,Manangatang,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,8,0,0,2021-07-18 08:36:47.865692+00:835
+Victoria,Mandurang,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,21,0,0,2021-07-18 08:36:47.865692+00:836
+Victoria,Mandurang South,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:837
+Victoria,Mangalore ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:838
+Victoria,Manifold Heights,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,21,0,0,2021-07-18 08:36:47.865692+00:839
+Victoria,Mannerim,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:840
+Victoria,Mannibadar,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:841
+Victoria,Manns Beach,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:842
+Victoria,Mansfield ,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,24,0,0,2021-07-18 08:36:47.865692+00:843
+Victoria,Marcus Hill,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,14,0,0,2021-07-18 08:36:47.865692+00:844
+Victoria,Marengo ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:845
+Victoria,Maribyrnong,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,10,0,0,2021-07-18 08:36:47.865692+00:846
+Victoria,Markwood,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,17,0,0,2021-07-18 08:36:47.865692+00:847
+Victoria,Marlo,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:848
+Victoria,Marnoo,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:849
+Victoria,Marong,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:850
+Victoria,Marshall,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,16,0,0,2021-07-18 08:36:47.865692+00:851
+Victoria,Maryborough ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,20,0,0,2021-07-18 08:36:47.865692+00:852
+Victoria,Maryknoll,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,7,0,0,2021-07-18 08:36:47.865692+00:853
+Victoria,Marysville,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:854
+Victoria,Maude ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,5,0,0,2021-07-18 08:36:47.865692+00:855
+Victoria,McCrae,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,19,0,0,2021-07-18 08:36:47.865692+00:856
+Victoria,McKenzie Creek,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,5,0,0,2021-07-18 08:36:47.865692+00:857
+Victoria,McKenzie Hill,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,18,0,0,2021-07-18 08:36:47.865692+00:858
+Victoria,McKinnon,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:859
+Victoria,McMahons Creek,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:860
+Victoria,McMillans,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:861
+Victoria,Mead,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:862
+Victoria,Meadow Heights,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:863
+Victoria,Meeniyan,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:864
+Victoria,Meerlieu,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:865
+Victoria,Melbourne,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:866
+Victoria,Melbourne Airport,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,21,0,0,2021-07-18 08:36:47.865692+00:867
+Victoria,Melton ,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:868
+Victoria,Melton South,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,7,0,0,2021-07-18 08:36:47.865692+00:869
+Victoria,Melton West,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,23,0,0,2021-07-18 08:36:47.865692+00:870
+Victoria,Mentone,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,12,0,0,2021-07-18 08:36:47.865692+00:871
+Victoria,Menzies Creek,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:872
+Victoria,Mepunga East,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,11,0,0,2021-07-18 08:36:47.865692+00:873
+Victoria,Merbein,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:874
+Victoria,Merbein South,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:875
+Victoria,Meredith,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:876
+Victoria,Meringur,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:877
+Victoria,Merino,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,7,0,0,2021-07-18 08:36:47.865692+00:878
+Victoria,Mernda,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,7,0,0,2021-07-18 08:36:47.865692+00:879
+Victoria,Merricks North,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:880
+Victoria,Merrigum,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:881
+Victoria,Merrijig ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:882
+Victoria,Merrimu,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,11,0,0,2021-07-18 08:36:47.865692+00:883
+Victoria,Merton,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:884
+Victoria,Metcalfe,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,16,0,0,2021-07-18 08:36:47.865692+00:885
+Victoria,Metung,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,7,0,0,2021-07-18 08:36:47.865692+00:886
+Victoria,Mia Mia ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:887
+Victoria,Mickleham,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:888
+Victoria,Middle Park ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:889
+Victoria,Miepoll,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:890
+Victoria,Milawa,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,21,0,0,2021-07-18 08:36:47.865692+00:891
+Victoria,Mildura,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:892
+Victoria,Mill Park,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,5,0,0,2021-07-18 08:36:47.865692+00:893
+Victoria,Millbrook ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:894
+Victoria,Millgrove,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:895
+Victoria,Miners Rest,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:896
+Victoria,Minimay,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:897
+Victoria,Minyip,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:898
+Victoria,Mirboo,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:899
+Victoria,Mirboo North,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:900
+Victoria,Mitcham ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,6,0,0,2021-07-18 08:36:47.865692+00:901
+Victoria,Mitchell Park ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:902
+Victoria,Mitta Mitta,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:903
+Victoria,Modewarre,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,11,0,0,2021-07-18 08:36:47.865692+00:904
+Victoria,Moe,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,8,0,0,2021-07-18 08:36:47.865692+00:905
+Victoria,Moe South,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:906
+Victoria,Monbulk,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:907
+Victoria,Monegeetta,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:908
+Victoria,Mont Albert,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,17,0,0,2021-07-18 08:36:47.865692+00:909
+Victoria,Mont Albert North,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:910
+Victoria,Montmorency,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,12,0,0,2021-07-18 08:36:47.865692+00:911
+Victoria,Montrose ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,13,0,0,2021-07-18 08:36:47.865692+00:912
+Victoria,Moolap,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:913
+Victoria,Moonambel,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:914
+Victoria,Moonee Ponds,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:915
+Victoria,Moorabbin,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:916
+Victoria,Moorabbin Airport,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,15,0,0,2021-07-18 08:36:47.865692+00:917
+Victoria,Moorabool,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,13,0,0,2021-07-18 08:36:47.865692+00:918
+Victoria,Moorooduc,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,20,0,0,2021-07-18 08:36:47.865692+00:919
+Victoria,Mooroolbark,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:920
+Victoria,Mooroopna,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,5,0,0,2021-07-18 08:36:47.865692+00:921
+Victoria,Mooroopna North,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,16,0,0,2021-07-18 08:36:47.865692+00:922
+Victoria,Mordialloc,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:923
+Victoria,Moriac,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:924
+Victoria,Mornington ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,23,0,0,2021-07-18 08:36:47.865692+00:925
+Victoria,Morrisons,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,21,0,0,2021-07-18 08:36:47.865692+00:926
+Victoria,Mortlake ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:927
+Victoria,Morwell,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,6,0,0,2021-07-18 08:36:47.865692+00:928
+Victoria,Mossiface,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:929
+Victoria,Mount Beauty,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:930
+Victoria,Mount Buller,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:931
+Victoria,Mount Camel,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:932
+Victoria,Mount Clear,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,8,0,0,2021-07-18 08:36:47.865692+00:933
+Victoria,Mount Cottrell,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:934
+Victoria,Mount Dandenong,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,9,0,0,2021-07-18 08:36:47.865692+00:935
+Victoria,Mount Duneed,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:936
+Victoria,Mount Egerton,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:937
+Victoria,Mount Eliza,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,24,0,0,2021-07-18 08:36:47.865692+00:938
+Victoria,Mount Evelyn,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:939
+Victoria,Mount Franklin,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:940
+Victoria,Mount Helen,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:941
+Victoria,Mount Macedon,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:942
+Victoria,Mount Martha,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,6,0,0,2021-07-18 08:36:47.865692+00:943
+Victoria,Mount Moriac,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,22,0,0,2021-07-18 08:36:47.865692+00:944
+Victoria,Mount Pleasant ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:945
+Victoria,Mount Rowan,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:946
+Victoria,Mount Taylor,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,8,0,0,2021-07-18 08:36:47.865692+00:947
+Victoria,Mount Waverley,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:948
+Victoria,Moutajup,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:949
+Victoria,Moyhu,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,23,0,0,2021-07-18 08:36:47.865692+00:950
+Victoria,Moyston,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,23,0,0,2021-07-18 08:36:47.865692+00:951
+Victoria,Muckleford,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,18,0,0,2021-07-18 08:36:47.865692+00:952
+Victoria,Mudgegonga,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:953
+Victoria,Mulgrave ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,10,0,0,2021-07-18 08:36:47.865692+00:954
+Victoria,Munro,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:955
+Victoria,Murchison ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,20,0,0,2021-07-18 08:36:47.865692+00:956
+Victoria,Murchison East,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:957
+Victoria,Murgheboluc,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:958
+Victoria,Murrabit,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,15,0,0,2021-07-18 08:36:47.865692+00:959
+Victoria,Murray-Sunset,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,15,0,0,2021-07-18 08:36:47.865692+00:960
+Victoria,Murrayville,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:961
+Victoria,Murrindindi,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:962
+Victoria,Murrumbeena,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:963
+Victoria,Murtoa,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,20,0,0,2021-07-18 08:36:47.865692+00:964
+Victoria,Musk,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,16,0,0,2021-07-18 08:36:47.865692+00:965
+Victoria,Myers Flat,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,6,0,0,2021-07-18 08:36:47.865692+00:966
+Victoria,Myrniong,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:967
+Victoria,Myrtleford,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,21,0,0,2021-07-18 08:36:47.865692+00:968
+Victoria,Mystic Park,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,15,0,0,2021-07-18 08:36:47.865692+00:969
+Victoria,Nagambie,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,10,0,0,2021-07-18 08:36:47.865692+00:970
+Victoria,Nambrok,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:971
+Victoria,Nandaly,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:972
+Victoria,Nangiloc,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:973
+Victoria,Nanneella,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,14,0,0,2021-07-18 08:36:47.865692+00:974
+Victoria,Napoleons,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:975
+Victoria,Nar Nar Goon,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,16,0,0,2021-07-18 08:36:47.865692+00:976
+Victoria,Nar Nar Goon North,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:977
+Victoria,Narbethong ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,18,0,0,2021-07-18 08:36:47.865692+00:978
+Victoria,Nareen,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,21,0,0,2021-07-18 08:36:47.865692+00:979
+Victoria,Nariel Valley,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,20,0,0,2021-07-18 08:36:47.865692+00:980
+Victoria,Naringal,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:981
+Victoria,Narracan,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,11,0,0,2021-07-18 08:36:47.865692+00:982
+Victoria,Narrawong,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:983
+Victoria,Narre Warren,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:984
+Victoria,Narre Warren East,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,12,0,0,2021-07-18 08:36:47.865692+00:985
+Victoria,Narre Warren North,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,6,0,0,2021-07-18 08:36:47.865692+00:986
+Victoria,Narre Warren South,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:987
+Victoria,Nathalia,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,12,0,0,2021-07-18 08:36:47.865692+00:988
+Victoria,Natimuk,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:989
+Victoria,Navarre,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:990
+Victoria,Navigators,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:991
+Victoria,Neerim,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:992
+Victoria,Neerim East,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:993
+Victoria,Neerim South,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:994
+Victoria,Neilborough,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:995
+Victoria,Nelson ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:996
+Victoria,Nerrena,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:997
+Victoria,Nerrina,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:998
+Victoria,Netherby ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,17,0,0,2021-07-18 08:36:47.865692+00:999
+Victoria,New Gisborne,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:1000
+Victoria,Newborough,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,7,0,0,2021-07-18 08:36:47.865692+00:1001
+Victoria,Newbridge ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1002
+Victoria,Newcomb,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1003
+Victoria,Newham,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:1004
+Victoria,Newhaven,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:1005
+Victoria,Newington ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:1006
+Victoria,Newlands Arm,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:1007
+Victoria,Newlyn North,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:1008
+Victoria,Newmerella,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,18,0,0,2021-07-18 08:36:47.865692+00:1009
+Victoria,Newport ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:1010
+Victoria,Newry,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:1011
+Victoria,Newstead ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:1012
+Victoria,Newtown ,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:1013
+Victoria,Nhill,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:1014
+Victoria,Nichols Point,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1015
+Victoria,Nicholson ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,6,0,0,2021-07-18 08:36:47.865692+00:1016
+Victoria,Niddrie,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,10,0,0,2021-07-18 08:36:47.865692+00:1017
+Victoria,Nilma,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,21,0,0,2021-07-18 08:36:47.865692+00:1018
+Victoria,Nilma North,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:1019
+Victoria,Nirranda,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:1020
+Victoria,Noble Park,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,24,0,0,2021-07-18 08:36:47.865692+00:1021
+Victoria,Noble Park North,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:1022
+Victoria,Noojee,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,5,0,0,2021-07-18 08:36:47.865692+00:1023
+Victoria,Noorat,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,16,0,0,2021-07-18 08:36:47.865692+00:1024
+Victoria,Norlane,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,5,0,0,2021-07-18 08:36:47.865692+00:1025
+Victoria,Norong,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,6,0,0,2021-07-18 08:36:47.865692+00:1026
+Victoria,North Bendigo,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:1027
+Victoria,North Geelong,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:1028
+Victoria,North Melbourne,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:1029
+Victoria,North Shore ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:1030
+Victoria,North Wangaratta,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:1031
+Victoria,North Warrandyte,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,20,0,0,2021-07-18 08:36:47.865692+00:1032
+Victoria,North Wonthaggi,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:1033
+Victoria,Northcote,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:1034
+Victoria,Notting Hill,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:1035
+Victoria,Nowa Nowa,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1036
+Victoria,Nullawarre,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,16,0,0,2021-07-18 08:36:47.865692+00:1037
+Victoria,Numurkah,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:1038
+Victoria,Nunawading,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:1039
+Victoria,Nungurner,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:1040
+Victoria,Nutfield,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:1041
+Victoria,Nyah,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:1042
+Victoria,Nyah West,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:1043
+Victoria,Nyora ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,12,0,0,2021-07-18 08:36:47.865692+00:1044
+Victoria,Oak Park,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1045
+Victoria,Oaklands Junction,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:1046
+Victoria,Oakleigh,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,5,0,0,2021-07-18 08:36:47.865692+00:1047
+Victoria,Oakleigh East,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:1048
+Victoria,Oakleigh South,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1049
+Victoria,Ocean Grange,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:1050
+Victoria,Ocean Grove,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:1051
+Victoria,Officer,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:1052
+Victoria,Olinda ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,22,0,0,2021-07-18 08:36:47.865692+00:1053
+Victoria,Omeo,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:1054
+Victoria,Orbost,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:1055
+Victoria,Ormond,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,6,0,0,2021-07-18 08:36:47.865692+00:1056
+Victoria,Orrvale,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:1057
+Victoria,Osbornes Flat,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:1058
+Victoria,Outtrim,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:1059
+Victoria,Ouyen,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,23,0,0,2021-07-18 08:36:47.865692+00:1060
+Victoria,Oxley ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:1061
+Victoria,Pakenham,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:1062
+Victoria,Pakenham South,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1063
+Victoria,Pakenham Upper,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:1064
+Victoria,Panmure,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:1065
+Victoria,Panton Hill,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1066
+Victoria,Paraparap,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,8,0,0,2021-07-18 08:36:47.865692+00:1067
+Victoria,Park Orchards,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,18,0,0,2021-07-18 08:36:47.865692+00:1068
+Victoria,Parkdale,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,18,0,0,2021-07-18 08:36:47.865692+00:1069
+Victoria,Parkville ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:1070
+Victoria,Parwan,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,5,0,0,2021-07-18 08:36:47.865692+00:1071
+Victoria,Pascoe Vale,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,21,0,0,2021-07-18 08:36:47.865692+00:1072
+Victoria,Pascoe Vale South,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,17,0,0,2021-07-18 08:36:47.865692+00:1073
+Victoria,Patchewollock,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:1074
+Victoria,Patterson Lakes,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,18,0,0,2021-07-18 08:36:47.865692+00:1075
+Victoria,Paynesville ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:1076
+Victoria,Pearcedale,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,23,0,0,2021-07-18 08:36:47.865692+00:1077
+Victoria,Peechelba,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:1078
+Victoria,Penshurst ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,23,0,0,2021-07-18 08:36:47.865692+00:1079
+Victoria,Pental Island,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,5,0,0,2021-07-18 08:36:47.865692+00:1080
+Victoria,Peterborough ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,6,0,0,2021-07-18 08:36:47.865692+00:1081
+Victoria,Pheasant Creek ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:1082
+Victoria,Piangil,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:1083
+Victoria,Picola,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:1084
+Victoria,Pimpinio,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1085
+Victoria,Pine Grove ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:1086
+Victoria,Pine Lodge ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:1087
+Victoria,Pioneer Bay,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:1088
+Victoria,Pirron Yallock,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,5,0,0,2021-07-18 08:36:47.865692+00:1089
+Victoria,Plenty ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,13,0,0,2021-07-18 08:36:47.865692+00:1090
+Victoria,Plumpton ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:1091
+Victoria,Point Cook,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,13,0,0,2021-07-18 08:36:47.865692+00:1092
+Victoria,Point Leo,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:1093
+Victoria,Point Lonsdale,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:1094
+Victoria,Pomborneit,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,11,0,0,2021-07-18 08:36:47.865692+00:1095
+Victoria,Pomonal,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,24,0,0,2021-07-18 08:36:47.865692+00:1096
+Victoria,Poowong,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,23,0,0,2021-07-18 08:36:47.865692+00:1097
+Victoria,Poowong North,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:1098
+Victoria,Porepunkah,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1099
+Victoria,Port Albert,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:1100
+Victoria,Port Campbell,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,18,0,0,2021-07-18 08:36:47.865692+00:1101
+Victoria,Port Fairy,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:1102
+Victoria,Port Melbourne,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,8,0,0,2021-07-18 08:36:47.865692+00:1103
+Victoria,Port Welshpool,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,19,0,0,2021-07-18 08:36:47.865692+00:1104
+Victoria,Portarlington,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:1105
+Victoria,Portland ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:1106
+Victoria,Portland North,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:1107
+Victoria,Portland West,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,19,0,0,2021-07-18 08:36:47.865692+00:1108
+Victoria,Portsea,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:1109
+Victoria,Powelltown,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:1110
+Victoria,Prahran,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,13,0,0,2021-07-18 08:36:47.865692+00:1111
+Victoria,Preston ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,14,0,0,2021-07-18 08:36:47.865692+00:1112
+Victoria,Princes Hill,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:1113
+Victoria,Princetown,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:1114
+Victoria,Puckapunyal,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,20,0,0,2021-07-18 08:36:47.865692+00:1115
+Victoria,Purnim,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,17,0,0,2021-07-18 08:36:47.865692+00:1116
+Victoria,Pyalong,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,16,0,0,2021-07-18 08:36:47.865692+00:1117
+Victoria,Pyramid Hill,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,6,0,0,2021-07-18 08:36:47.865692+00:1118
+Victoria,Quambatook,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,17,0,0,2021-07-18 08:36:47.865692+00:1119
+Victoria,Quantong,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,15,0,0,2021-07-18 08:36:47.865692+00:1120
+Victoria,Quarry Hill,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:1121
+Victoria,Queenscliff ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:1122
+Victoria,Raglan ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,18,0,0,2021-07-18 08:36:47.865692+00:1123
+Victoria,Rainbow,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,21,0,0,2021-07-18 08:36:47.865692+00:1124
+Victoria,Ravenhall,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,9,0,0,2021-07-18 08:36:47.865692+00:1125
+Victoria,Ravenswood ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,5,0,0,2021-07-18 08:36:47.865692+00:1126
+Victoria,Rawson,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:1127
+Victoria,Raymond Island,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:1128
+Victoria,Raywood,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:1129
+Victoria,Red Cliffs,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:1130
+Victoria,Red Hill ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:1131
+Victoria,Red Hill South,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,7,0,0,2021-07-18 08:36:47.865692+00:1132
+Victoria,Redan,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,19,0,0,2021-07-18 08:36:47.865692+00:1133
+Victoria,Redesdale,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:1134
+Victoria,Reedy Creek ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:1135
+Victoria,Reedy Flat,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:1136
+Victoria,Research,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,16,0,0,2021-07-18 08:36:47.865692+00:1137
+Victoria,Reservoir ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:1138
+Victoria,Rheola,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,15,0,0,2021-07-18 08:36:47.865692+00:1139
+Victoria,Rhyll,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,17,0,0,2021-07-18 08:36:47.865692+00:1140
+Victoria,Richmond ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:1141
+Victoria,Riddells Creek,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,8,0,0,2021-07-18 08:36:47.865692+00:1142
+Victoria,Ringwood ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1143
+Victoria,Ringwood East,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,24,0,0,2021-07-18 08:36:47.865692+00:1144
+Victoria,Ringwood North,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,13,0,0,2021-07-18 08:36:47.865692+00:1145
+Victoria,Ripplebrook,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,5,0,0,2021-07-18 08:36:47.865692+00:1146
+Victoria,Rippleside,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:1147
+Victoria,Ripponlea,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:1148
+Victoria,Riverside ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:1149
+Victoria,Robertsons Beach,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,24,0,0,2021-07-18 08:36:47.865692+00:1150
+Victoria,Robinvale,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,13,0,0,2021-07-18 08:36:47.865692+00:1151
+Victoria,Robinvale Irrigation District Section B,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,14,0,0,2021-07-18 08:36:47.865692+00:1152
+Victoria,Robinvale Irrigation District Section C,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,20,0,0,2021-07-18 08:36:47.865692+00:1153
+Victoria,Robinvale Irrigation District Section E,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,9,0,0,2021-07-18 08:36:47.865692+00:1154
+Victoria,Rochester ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:1155
+Victoria,Rockbank,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:1156
+Victoria,Rokeby ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:1157
+Victoria,Rokewood,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:1158
+Victoria,Romsey,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,21,0,0,2021-07-18 08:36:47.865692+00:1159
+Victoria,Rosanna,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:1160
+Victoria,Rosebrook ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:1161
+Victoria,Rosebud,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,16,0,0,2021-07-18 08:36:47.865692+00:1162
+Victoria,Rosebud West,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,9,0,0,2021-07-18 08:36:47.865692+00:1163
+Victoria,Rosedale ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,20,0,0,2021-07-18 08:36:47.865692+00:1164
+Victoria,Rosewhite,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:1165
+Victoria,Ross Creek ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:1166
+Victoria,Rowsley,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:1167
+Victoria,Rowville,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,8,0,0,2021-07-18 08:36:47.865692+00:1168
+Victoria,Roxburgh Park,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,23,0,0,2021-07-18 08:36:47.865692+00:1169
+Victoria,Ruffy,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,21,0,0,2021-07-18 08:36:47.865692+00:1170
+Victoria,Rupanyup,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:1171
+Victoria,Rushworth,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,24,0,0,2021-07-18 08:36:47.865692+00:1172
+Victoria,Russells Bridge,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,22,0,0,2021-07-18 08:36:47.865692+00:1173
+Victoria,Rutherglen,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:1174
+Victoria,Rye,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,18,0,0,2021-07-18 08:36:47.865692+00:1175
+Victoria,Safety Beach ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,7,0,0,2021-07-18 08:36:47.865692+00:1176
+Victoria,Sailors Gully,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:1177
+Victoria,Sale,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,20,0,0,2021-07-18 08:36:47.865692+00:1178
+Victoria,San Remo ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,22,0,0,2021-07-18 08:36:47.865692+00:1179
+Victoria,Sandford ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,21,0,0,2021-07-18 08:36:47.865692+00:1180
+Victoria,Sandhurst,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:1181
+Victoria,Sandon ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:1182
+Victoria,Sandringham ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:1183
+Victoria,Sandy Point ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:1184
+Victoria,Sarsfield,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,5,0,0,2021-07-18 08:36:47.865692+00:1185
+Victoria,Sassafras ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,15,0,0,2021-07-18 08:36:47.865692+00:1186
+Victoria,Scarsdale,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:1187
+Victoria,Scoresby,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,21,0,0,2021-07-18 08:36:47.865692+00:1188
+Victoria,Scotts Creek ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:1189
+Victoria,Sea Lake,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,24,0,0,2021-07-18 08:36:47.865692+00:1190
+Victoria,Seabrook,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,12,0,0,2021-07-18 08:36:47.865692+00:1191
+Victoria,Seaford ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:1192
+Victoria,Seaholme,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:1193
+Victoria,Seaspray,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,6,0,0,2021-07-18 08:36:47.865692+00:1194
+Victoria,Seaton ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:1195
+Victoria,Sebastian,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:1196
+Victoria,Sebastopol ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:1197
+Victoria,Seddon ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,19,0,0,2021-07-18 08:36:47.865692+00:1198
+Victoria,Sedgwick,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:1199
+Victoria,Selby,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,19,0,0,2021-07-18 08:36:47.865692+00:1200
+Victoria,Serpentine ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,21,0,0,2021-07-18 08:36:47.865692+00:1201
+Victoria,Serviceton,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:1202
+Victoria,Seville,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:1203
+Victoria,Seville East,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,18,0,0,2021-07-18 08:36:47.865692+00:1204
+Victoria,Seymour ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:1205
+Victoria,Shady Creek,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:1206
+Victoria,She Oaks,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,20,0,0,2021-07-18 08:36:47.865692+00:1207
+Victoria,Shelbourne,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:1208
+Victoria,Shelford,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:1209
+Victoria,Shepparton,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,19,0,0,2021-07-18 08:36:47.865692+00:1210
+Victoria,Shepparton East,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,20,0,0,2021-07-18 08:36:47.865692+00:1211
+Victoria,Shepparton North,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,18,0,0,2021-07-18 08:36:47.865692+00:1212
+Victoria,Sherbrooke,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:1213
+Victoria,Shoreham,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:1214
+Victoria,Silvan,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,12,0,0,2021-07-18 08:36:47.865692+00:1215
+Victoria,Silverleaves,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:1216
+Victoria,Simpson ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1217
+Victoria,Skenes Creek,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:1218
+Victoria,Skipton,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:1219
+Victoria,Skye ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:1220
+Victoria,Smeaton,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1221
+Victoria,Smiths Beach,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:1222
+Victoria,Smiths Gully,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:1223
+Victoria,Smythes Creek,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:1224
+Victoria,Smythesdale,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,7,0,0,2021-07-18 08:36:47.865692+00:1225
+Victoria,Snake Valley,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:1226
+Victoria,Soldiers Hill ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:1227
+Victoria,Somers,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:1228
+Victoria,Somerton ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,8,0,0,2021-07-18 08:36:47.865692+00:1229
+Victoria,Somerville ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:1230
+Victoria,Sorrento ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,9,0,0,2021-07-18 08:36:47.865692+00:1231
+Victoria,South Dudley,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:1232
+Victoria,South Geelong,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,11,0,0,2021-07-18 08:36:47.865692+00:1233
+Victoria,South Kingsville,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,16,0,0,2021-07-18 08:36:47.865692+00:1234
+Victoria,South Melbourne,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1235
+Victoria,South Morang,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:1236
+Victoria,South Purrumbete,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,6,0,0,2021-07-18 08:36:47.865692+00:1237
+Victoria,South Wharf,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,5,0,0,2021-07-18 08:36:47.865692+00:1238
+Victoria,South Yarra,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,9,0,0,2021-07-18 08:36:47.865692+00:1239
+Victoria,Southbank,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,14,0,0,2021-07-18 08:36:47.865692+00:1240
+Victoria,Spotswood,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,15,0,0,2021-07-18 08:36:47.865692+00:1241
+Victoria,Spring Gully ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,17,0,0,2021-07-18 08:36:47.865692+00:1242
+Victoria,Springbank,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1243
+Victoria,Springhurst,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,8,0,0,2021-07-18 08:36:47.865692+00:1244
+Victoria,Springvale ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,16,0,0,2021-07-18 08:36:47.865692+00:1245
+Victoria,Springvale South,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,24,0,0,2021-07-18 08:36:47.865692+00:1246
+Victoria,St Albans ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,21,0,0,2021-07-18 08:36:47.865692+00:1247
+Victoria,St Albans Park,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1248
+Victoria,St Andrews ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,19,0,0,2021-07-18 08:36:47.865692+00:1249
+Victoria,St Andrews Beach,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,11,0,0,2021-07-18 08:36:47.865692+00:1250
+Victoria,St Arnaud,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,19,0,0,2021-07-18 08:36:47.865692+00:1251
+Victoria,St Helena,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,18,0,0,2021-07-18 08:36:47.865692+00:1252
+Victoria,St James ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,23,0,0,2021-07-18 08:36:47.865692+00:1253
+Victoria,St Kilda ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,5,0,0,2021-07-18 08:36:47.865692+00:1254
+Victoria,St Kilda East,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,5,0,0,2021-07-18 08:36:47.865692+00:1255
+Victoria,St Kilda West,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,18,0,0,2021-07-18 08:36:47.865692+00:1256
+Victoria,St Leonards ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,6,0,0,2021-07-18 08:36:47.865692+00:1257
+Victoria,Staghorn Flat,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,18,0,0,2021-07-18 08:36:47.865692+00:1258
+Victoria,Stanhope ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,14,0,0,2021-07-18 08:36:47.865692+00:1259
+Victoria,Stanley ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:1260
+Victoria,Stawell,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,15,0,0,2021-07-18 08:36:47.865692+00:1261
+Victoria,Steels Creek,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,12,0,0,2021-07-18 08:36:47.865692+00:1262
+Victoria,Stony Creek ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:1263
+Victoria,Stradbroke,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:1264
+Victoria,Stratford ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,19,0,0,2021-07-18 08:36:47.865692+00:1265
+Victoria,Strath Creek,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:1266
+Victoria,Strathbogie,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:1267
+Victoria,Strathdale,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1268
+Victoria,Strathdownie,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:1269
+Victoria,Strathewen,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,9,0,0,2021-07-18 08:36:47.865692+00:1270
+Victoria,Strathfieldsaye,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,21,0,0,2021-07-18 08:36:47.865692+00:1271
+Victoria,Strathmerton,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,23,0,0,2021-07-18 08:36:47.865692+00:1272
+Victoria,Strathmore ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,12,0,0,2021-07-18 08:36:47.865692+00:1273
+Victoria,Strathmore Heights,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,23,0,0,2021-07-18 08:36:47.865692+00:1274
+Victoria,Streatham,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,13,0,0,2021-07-18 08:36:47.865692+00:1275
+Victoria,Strzelecki ,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:1276
+Victoria,Sugarloaf Creek,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,23,0,0,2021-07-18 08:36:47.865692+00:1277
+Victoria,Sulky,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:1278
+Victoria,Sunbury,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,7,0,0,2021-07-18 08:36:47.865692+00:1279
+Victoria,Sunset Strip ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,22,0,0,2021-07-18 08:36:47.865692+00:1280
+Victoria,Sunshine ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,6,0,0,2021-07-18 08:36:47.865692+00:1281
+Victoria,Sunshine North,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,6,0,0,2021-07-18 08:36:47.865692+00:1282
+Victoria,Sunshine West,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,15,0,0,2021-07-18 08:36:47.865692+00:1283
+Victoria,Surf Beach ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:1284
+Victoria,Surrey Hills,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:1285
+Victoria,Swan Hill,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:1286
+Victoria,Swan Marsh,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:1287
+Victoria,Swan Reach ,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,17,0,0,2021-07-18 08:36:47.865692+00:1288
+Victoria,Swanpool,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,16,0,0,2021-07-18 08:36:47.865692+00:1289
+Victoria,Swifts Creek,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,7,0,0,2021-07-18 08:36:47.865692+00:1290
+Victoria,Sydenham ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1291
+Victoria,Taggerty,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,17,0,0,2021-07-18 08:36:47.865692+00:1292
+Victoria,Talbot ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,11,0,0,2021-07-18 08:36:47.865692+00:1293
+Victoria,Talgarno,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,21,0,0,2021-07-18 08:36:47.865692+00:1294
+Victoria,Tallangatta,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:1295
+Victoria,Tallangatta South,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,18,0,0,2021-07-18 08:36:47.865692+00:1296
+Victoria,Tallangatta Valley,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:1297
+Victoria,Tallarook,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,23,0,0,2021-07-18 08:36:47.865692+00:1298
+Victoria,Tallygaroopna,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,16,0,0,2021-07-18 08:36:47.865692+00:1299
+Victoria,Tambo Upper,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,8,0,0,2021-07-18 08:36:47.865692+00:1300
+Victoria,Taminick,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,16,0,0,2021-07-18 08:36:47.865692+00:1301
+Victoria,Tangambalanga,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,17,0,0,2021-07-18 08:36:47.865692+00:1302
+Victoria,Tanjil Bren,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,14,0,0,2021-07-18 08:36:47.865692+00:1303
+Victoria,Tanjil South,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,16,0,0,2021-07-18 08:36:47.865692+00:1304
+Victoria,Taradale ,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,22,0,0,2021-07-18 08:36:47.865692+00:1305
+Victoria,Tarnagulla,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,16,0,0,2021-07-18 08:36:47.865692+00:1306
+Victoria,Tarneit,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,22,0,0,2021-07-18 08:36:47.865692+00:1307
+Victoria,Tarrawingee,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,11,0,0,2021-07-18 08:36:47.865692+00:1308
+Victoria,Tarrington,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:1309
+Victoria,Tarwin Lower,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,11,0,0,2021-07-18 08:36:47.865692+00:1310
+Victoria,Tatong,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,10,0,0,2021-07-18 08:36:47.865692+00:1311
+Victoria,Tatura,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1312
+Victoria,Tatura East,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:1313
+Victoria,Tatyoon,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,8,0,0,2021-07-18 08:36:47.865692+00:1314
+Victoria,Tawonga,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,23,0,0,2021-07-18 08:36:47.865692+00:1315
+Victoria,Tawonga South,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,18,0,0,2021-07-18 08:36:47.865692+00:1316
+Victoria,Taylor Bay,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:1317
+Victoria,Taylors Hill,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1318
+Victoria,Taylors Lakes,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:1319
+Victoria,Tecoma,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,12,0,0,2021-07-18 08:36:47.865692+00:1320
+Victoria,Teesdale ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,16,0,0,2021-07-18 08:36:47.865692+00:1321
+Victoria,Telopea Downs,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,14,0,0,2021-07-18 08:36:47.865692+00:1322
+Victoria,Templestowe,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:1323
+Victoria,Templestowe Lower,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:1324
+Victoria,Tenby Point,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,23,0,0,2021-07-18 08:36:47.865692+00:1325
+Victoria,Terang,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,5,0,0,2021-07-18 08:36:47.865692+00:1326
+Victoria,The Basin ,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1327
+Victoria,The Gurdies,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,14,0,0,2021-07-18 08:36:47.865692+00:1328
+Victoria,The Patch,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:1329
+Victoria,Thomastown,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,8,0,0,2021-07-18 08:36:47.865692+00:1330
+Victoria,Thomson ,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:1331
+Victoria,Thornbury,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,9,0,0,2021-07-18 08:36:47.865692+00:1332
+Victoria,Thornton ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,5,0,0,2021-07-18 08:36:47.865692+00:1333
+Victoria,Thorpdale,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,24,0,0,2021-07-18 08:36:47.865692+00:1334
+Victoria,Three Bridges,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,23,0,0,2021-07-18 08:36:47.865692+00:1335
+Victoria,Timboon,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,18,0,0,2021-07-18 08:36:47.865692+00:1336
+Victoria,Tinamba,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,21,0,0,2021-07-18 08:36:47.865692+00:1337
+Victoria,Tol Tol,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,16,0,0,2021-07-18 08:36:47.865692+00:1338
+Victoria,Tolmie,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,22,0,0,2021-07-18 08:36:47.865692+00:1339
+Victoria,Tom Groggin,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,8,0,0,2021-07-18 08:36:47.865692+00:1340
+Victoria,Tongala,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1341
+Victoria,Tonimbuk,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,17,0,0,2021-07-18 08:36:47.865692+00:1342
+Victoria,Tooborac,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,24,0,0,2021-07-18 08:36:47.865692+00:1343
+Victoria,Toolamba,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,6,0,0,2021-07-18 08:36:47.865692+00:1344
+Victoria,Toolangi,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:1345
+Victoria,Toolern Vale,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,12,0,0,2021-07-18 08:36:47.865692+00:1346
+Victoria,Toolleen,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,9,0,0,2021-07-18 08:36:47.865692+00:1347
+Victoria,Toolondo,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,5,0,0,2021-07-18 08:36:47.865692+00:1348
+Victoria,Toongabbie ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,15,0,0,2021-07-18 08:36:47.865692+00:1349
+Victoria,Toora ,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,10,0,0,2021-07-18 08:36:47.865692+00:1350
+Victoria,Toora North,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,18,0,0,2021-07-18 08:36:47.865692+00:1351
+Victoria,Tooradin,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:1352
+Victoria,Toorak,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:1353
+Victoria,Toorloo Arm,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:1354
+Victoria,Tootgarook,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,19,0,0,2021-07-18 08:36:47.865692+00:1355
+Victoria,Torquay ,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,11,0,0,2021-07-18 08:36:47.865692+00:1356
+Victoria,Torrumbarry,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,22,0,0,2021-07-18 08:36:47.865692+00:1357
+Victoria,Tottenham ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,5,0,0,2021-07-18 08:36:47.865692+00:1358
+Victoria,Trafalgar ,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,7,0,0,2021-07-18 08:36:47.865692+00:1359
+Victoria,Trafalgar East,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:1360
+Victoria,Trafalgar South,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,13,0,0,2021-07-18 08:36:47.865692+00:1361
+Victoria,Tragowel,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,20,0,0,2021-07-18 08:36:47.865692+00:1362
+Victoria,Traralgon,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1363
+Victoria,Traralgon East,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:1364
+Victoria,Traralgon South,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,8,0,0,2021-07-18 08:36:47.865692+00:1365
+Victoria,Travancore,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:1366
+Victoria,Trawalla,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,23,0,0,2021-07-18 08:36:47.865692+00:1367
+Victoria,Tremont,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:1368
+Victoria,Trentham,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,15,0,0,2021-07-18 08:36:47.865692+00:1369
+Victoria,Tresco,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,6,0,0,2021-07-18 08:36:47.865692+00:1370
+Victoria,Truganina,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,19,0,0,2021-07-18 08:36:47.865692+00:1371
+Victoria,Tuerong,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:1372
+Victoria,Tullamarine,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,24,0,0,2021-07-18 08:36:47.865692+00:1373
+Victoria,Tungamah,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:1374
+Victoria,Tyabb,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,19,0,0,2021-07-18 08:36:47.865692+00:1375
+Victoria,Tyers,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,11,0,0,2021-07-18 08:36:47.865692+00:1376
+Victoria,Tylden,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:1377
+Victoria,Tynong,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,24,0,0,2021-07-18 08:36:47.865692+00:1378
+Victoria,Tynong North,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:1379
+Victoria,Tyntynder,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,9,0,0,2021-07-18 08:36:47.865692+00:1380
+Victoria,Tyntynder South,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,18,0,0,2021-07-18 08:36:47.865692+00:1381
+Victoria,Tyrendarra,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:1382
+Victoria,Ultima,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:1383
+Victoria,Undera,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,15,0,0,2021-07-18 08:36:47.865692+00:1384
+Victoria,Underbool,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,10,0,0,2021-07-18 08:36:47.865692+00:1385
+Victoria,Upper Ferntree Gully,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:1386
+Victoria,Upper Gundowring,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,16,0,0,2021-07-18 08:36:47.865692+00:1387
+Victoria,Upper Plenty,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,13,0,0,2021-07-18 08:36:47.865692+00:1388
+Victoria,Upwey,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,12,0,0,2021-07-18 08:36:47.865692+00:1389
+Victoria,Vectis,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,16,0,0,2021-07-18 08:36:47.865692+00:1390
+Victoria,Ventnor ,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,10,0,0,2021-07-18 08:36:47.865692+00:1391
+Victoria,Venus Bay ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,5,0,0,2021-07-18 08:36:47.865692+00:1392
+Victoria,Vermont,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,16,0,0,2021-07-18 08:36:47.865692+00:1393
+Victoria,Vermont South,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:1394
+Victoria,Viewbank,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1395
+Victoria,Vinifera,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,9,0,0,2021-07-18 08:36:47.865692+00:1396
+Victoria,Violet Town,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,13,0,0,2021-07-18 08:36:47.865692+00:1397
+Victoria,Waaia,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1398
+Victoria,Wahgunyah,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,13,0,0,2021-07-18 08:36:47.865692+00:1399
+Victoria,Wahring,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,9,0,0,2021-07-18 08:36:47.865692+00:1400
+Victoria,Waldara,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1401
+Victoria,Walkerville ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,15,0,0,2021-07-18 08:36:47.865692+00:1402
+Victoria,Wallan,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,12,0,0,2021-07-18 08:36:47.865692+00:1403
+Victoria,Wallington,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:1404
+Victoria,Walmer ,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,22,0,0,2021-07-18 08:36:47.865692+00:1405
+Victoria,Walpa,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:1406
+Victoria,Walpeup,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:1407
+Victoria,Walwa,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,10,0,0,2021-07-18 08:36:47.865692+00:1408
+Victoria,Wandana Heights,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:1409
+Victoria,Wandiligong,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,19,0,0,2021-07-18 08:36:47.865692+00:1410
+Victoria,Wandin East,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,10,0,0,2021-07-18 08:36:47.865692+00:1411
+Victoria,Wandin North,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,18,0,0,2021-07-18 08:36:47.865692+00:1412
+Victoria,Wando Vale,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:1413
+Victoria,Wandong,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,23,0,0,2021-07-18 08:36:47.865692+00:1414
+Victoria,Wangandary,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:1415
+Victoria,Wangaratta ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1416
+Victoria,Wangaratta South,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,10,0,0,2021-07-18 08:36:47.865692+00:1417
+Victoria,Wantirna,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:1418
+Victoria,Wantirna South,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:1419
+Victoria,Waranga Shores,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,24,0,0,2021-07-18 08:36:47.865692+00:1420
+Victoria,Warburton ,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,20,0,0,2021-07-18 08:36:47.865692+00:1421
+Victoria,Warncoort,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:1422
+Victoria,Warneet,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,24,0,0,2021-07-18 08:36:47.865692+00:1423
+Victoria,Warracknabeal,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,17,0,0,2021-07-18 08:36:47.865692+00:1424
+Victoria,Warragul,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,23,0,0,2021-07-18 08:36:47.865692+00:1425
+Victoria,Warragul South,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:1426
+Victoria,Warrandyte,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,6,0,0,2021-07-18 08:36:47.865692+00:1427
+Victoria,Warrandyte South,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:1428
+Victoria,Warranwood,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,10,0,0,2021-07-18 08:36:47.865692+00:1429
+Victoria,Warrenbayne,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,9,0,0,2021-07-18 08:36:47.865692+00:1430
+Victoria,Warrenheip,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,5,0,0,2021-07-18 08:36:47.865692+00:1431
+Victoria,Warrion,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,17,0,0,2021-07-18 08:36:47.865692+00:1432
+Victoria,Warrnambool,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,23,0,0,2021-07-18 08:36:47.865692+00:1433
+Victoria,Warrong,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,22,0,0,2021-07-18 08:36:47.865692+00:1434
+Victoria,Wartook,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,11,0,0,2021-07-18 08:36:47.865692+00:1435
+Victoria,Watchem,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,22,0,0,2021-07-18 08:36:47.865692+00:1436
+Victoria,Waterford Park,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,12,0,0,2021-07-18 08:36:47.865692+00:1437
+Victoria,Waterways,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:1438
+Victoria,Watsonia,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:1439
+Victoria,Watsonia North,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,17,0,0,2021-07-18 08:36:47.865692+00:1440
+Victoria,Wattle Bank,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,6,0,0,2021-07-18 08:36:47.865692+00:1441
+Victoria,Wattle Glen,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,6,0,0,2021-07-18 08:36:47.865692+00:1442
+Victoria,Waubra,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,6,0,0,2021-07-18 08:36:47.865692+00:1443
+Victoria,Waurn Ponds,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,11,0,0,2021-07-18 08:36:47.865692+00:1444
+Victoria,Wedderburn ,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1445
+Victoria,Wellsford,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,20,0,0,2021-07-18 08:36:47.865692+00:1446
+Victoria,Welshmans Reef,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:1447
+Victoria,Welshpool ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,14,0,0,2021-07-18 08:36:47.865692+00:1448
+Victoria,Wemen,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1449
+Victoria,Wendouree,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,5,0,0,2021-07-18 08:36:47.865692+00:1450
+Victoria,Werribee,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,9,0,0,2021-07-18 08:36:47.865692+00:1451
+Victoria,Werribee South,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,15,0,0,2021-07-18 08:36:47.865692+00:1452
+Victoria,Werrimull,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,13,0,0,2021-07-18 08:36:47.865692+00:1453
+Victoria,Wesburn,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,21,0,0,2021-07-18 08:36:47.865692+00:1454
+Victoria,West Bendigo,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:1455
+Victoria,West Footscray,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,24,0,0,2021-07-18 08:36:47.865692+00:1456
+Victoria,West Melbourne,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:1457
+Victoria,West Wodonga,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,14,0,0,2021-07-18 08:36:47.865692+00:1458
+Victoria,Westmeadows,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,13,0,0,2021-07-18 08:36:47.865692+00:1459
+Victoria,Wharparilla,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:1460
+Victoria,Wheatsheaf,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,7,0,0,2021-07-18 08:36:47.865692+00:1461
+Victoria,Wheelers Hill,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:1462
+Victoria,White Hills ,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1463
+Victoria,Whiteheads Creek,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,20,0,0,2021-07-18 08:36:47.865692+00:1464
+Victoria,Whitfield ,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,20,0,0,2021-07-18 08:36:47.865692+00:1465
+Victoria,Whittington,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,7,0,0,2021-07-18 08:36:47.865692+00:1466
+Victoria,Whittlesea,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,23,0,0,2021-07-18 08:36:47.865692+00:1467
+Victoria,Whorouly,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,13,0,0,2021-07-18 08:36:47.865692+00:1468
+Victoria,Wilby,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,22,0,0,2021-07-18 08:36:47.865692+00:1469
+Victoria,Wildwood,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,10,0,0,2021-07-18 08:36:47.865692+00:1470
+Victoria,Willaura,64,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,13,0,0,2021-07-18 08:36:47.865692+00:1471
+Victoria,Williams Landing,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:1472
+Victoria,Williamstown ,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,9,0,0,2021-07-18 08:36:47.865692+00:1473
+Victoria,Williamstown North,47,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,10,0,0,2021-07-18 08:36:47.865692+00:1474
+Victoria,Willow Grove,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,24,0,0,2021-07-18 08:36:47.865692+00:1475
+Victoria,Willowmavin,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,21,0,0,2021-07-18 08:36:47.865692+00:1476
+Victoria,Willung South,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,14,0,0,2021-07-18 08:36:47.865692+00:1477
+Victoria,Wilsons Promontory,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,19,0,0,2021-07-18 08:36:47.865692+00:1478
+Victoria,Wimbledon Heights,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,16,0,0,2021-07-18 08:36:47.865692+00:1479
+Victoria,Winchelsea,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,21,0,0,2021-07-18 08:36:47.865692+00:1480
+Victoria,Winchelsea South,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1481
+Victoria,Windermere ,65,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,17,0,0,2021-07-18 08:36:47.865692+00:1482
+Victoria,Windsor ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,24,0,0,2021-07-18 08:36:47.865692+00:1483
+Victoria,Winslow,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,5,0,0,2021-07-18 08:36:47.865692+00:1484
+Victoria,Winton ,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,21,0,0,2021-07-18 08:36:47.865692+00:1485
+Victoria,Wodonga,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,13,0,0,2021-07-18 08:36:47.865692+00:1486
+Victoria,Wollert,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,9,0,0,2021-07-18 08:36:47.865692+00:1487
+Victoria,Won Wron,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,8,0,0,2021-07-18 08:36:47.865692+00:1488
+Victoria,Wonga Park,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,19,0,0,2021-07-18 08:36:47.865692+00:1489
+Victoria,Wonthaggi,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,6,0,0,2021-07-18 08:36:47.865692+00:1490
+Victoria,Wood Wood,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,11,0,0,2021-07-18 08:36:47.865692+00:1491
+Victoria,Woodend ,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,19,0,0,2021-07-18 08:36:47.865692+00:1492
+Victoria,Woodend North,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,8,0,0,2021-07-18 08:36:47.865692+00:1493
+Victoria,Woodford ,45,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,22,0,0,2021-07-18 08:36:47.865692+00:1494
+Victoria,Woodside ,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,16,0,0,2021-07-18 08:36:47.865692+00:1495
+Victoria,Woodstock ,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,5,0,0,2021-07-18 08:36:47.865692+00:1496
+Victoria,Woodvale ,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,14,0,0,2021-07-18 08:36:47.865692+00:1497
+Victoria,Woolamai,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,24,0,0,2021-07-18 08:36:47.865692+00:1498
+Victoria,Woolsthorpe,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,7,0,0,2021-07-18 08:36:47.865692+00:1499
+Victoria,Woomelang,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,15,0,0,2021-07-18 08:36:47.865692+00:1500
+Victoria,Wooragee,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,14,0,0,2021-07-18 08:36:47.865692+00:1501
+Victoria,Woorarra West,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,18,0,0,2021-07-18 08:36:47.865692+00:1502
+Victoria,Woori Yallock,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,11,0,0,2021-07-18 08:36:47.865692+00:1503
+Victoria,Woorinen,56,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,6,0,0,2021-07-18 08:36:47.865692+00:1504
+Victoria,Woorinen South,57,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,7,0,0,2021-07-18 08:36:47.865692+00:1505
+Victoria,Woorndoo,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,7,0,0,2021-07-18 08:36:47.865692+00:1506
+Victoria,Wunghnu,43,0,0,0,No Risk, Being hit by moving objects,Body stressing,34,24,0,0,2021-07-18 08:36:47.865692+00:1507
+Victoria,Wurruk,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,10,0,0,2021-07-18 08:36:47.865692+00:1508
+Victoria,Wy Yung,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,23,0,0,2021-07-18 08:36:47.865692+00:1509
+Victoria,Wycheproof,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,16,0,0,2021-07-18 08:36:47.865692+00:1510
+Victoria,Wye River,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,23,0,0,2021-07-18 08:36:47.865692+00:1511
+Victoria,Wyndham Vale,46,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,21,0,0,2021-07-18 08:36:47.865692+00:1512
+Victoria,Wyuna ,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,12,0,0,2021-07-18 08:36:47.865692+00:1513
+Victoria,Yabba North,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,12,0,0,2021-07-18 08:36:47.865692+00:1514
+Victoria,Yackandandah,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,10,0,0,2021-07-18 08:36:47.865692+00:1515
+Victoria,Yalca,50,0,0,0,No Risk, Being hit by moving objects,Body stressing,31,17,0,0,2021-07-18 08:36:47.865692+00:1516
+Victoria,Yallambie,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,9,0,0,2021-07-18 08:36:47.865692+00:1517
+Victoria,Yallourn,55,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,23,0,0,2021-07-18 08:36:47.865692+00:1518
+Victoria,Yallourn North,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,18,0,0,2021-07-18 08:36:47.865692+00:1519
+Victoria,Yambuk,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,13,0,0,2021-07-18 08:36:47.865692+00:1520
+Victoria,Yan Yean,42,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,18,0,0,2021-07-18 08:36:47.865692+00:1521
+Victoria,Yanakie,40,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,7,0,0,2021-07-18 08:36:47.865692+00:1522
+Victoria,Yandoit,58,0,0,0,No Risk, Being hit by moving objects,Body stressing,25,6,0,0,2021-07-18 08:36:47.865692+00:1523
+Victoria,Yannathan,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,22,0,0,2021-07-18 08:36:47.865692+00:1524
+Victoria,Yapeen,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,12,0,0,2021-07-18 08:36:47.865692+00:1525
+Victoria,Yarck,61,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,22,0,0,2021-07-18 08:36:47.865692+00:1526
+Victoria,Yarra Glen,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,30,16,0,0,2021-07-18 08:36:47.865692+00:1527
+Victoria,Yarra Junction,41,0,0,0,No Risk, Being hit by moving objects,Body stressing,35,18,0,0,2021-07-18 08:36:47.865692+00:1528
+Victoria,Yarragon,52,0,0,0,No Risk, Being hit by moving objects,Body stressing,39,8,0,0,2021-07-18 08:36:47.865692+00:1529
+Victoria,Yarragon South,54,0,0,0,No Risk, Being hit by moving objects,Body stressing,36,5,0,0,2021-07-18 08:36:47.865692+00:1530
+Victoria,Yarram,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,38,17,0,0,2021-07-18 08:36:47.865692+00:1531
+Victoria,Yarrambat,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,11,0,0,2021-07-18 08:36:47.865692+00:1532
+Victoria,Yarraville,59,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,15,0,0,2021-07-18 08:36:47.865692+00:1533
+Victoria,Yarrawonga ,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,29,17,0,0,2021-07-18 08:36:47.865692+00:1534
+Victoria,Yarroweyah,44,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,14,0,0,2021-07-18 08:36:47.865692+00:1535
+Victoria,Yea,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,26,11,0,0,2021-07-18 08:36:47.865692+00:1536
+Victoria,Yellingbo,51,0,0,0,No Risk, Being hit by moving objects,Body stressing,32,17,0,0,2021-07-18 08:36:47.865692+00:1537
+Victoria,Yelta ,48,0,0,0,No Risk, Being hit by moving objects,Body stressing,33,20,0,0,2021-07-18 08:36:47.865692+00:1538
+Victoria,Yendon,49,0,0,0,No Risk, Being hit by moving objects,Body stressing,28,17,0,0,2021-07-18 08:36:47.865692+00:1539
+Victoria,Yinnar,53,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,18,0,0,2021-07-18 08:36:47.865692+00:1540
+Victoria,Yinnar South,63,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,10,0,0,2021-07-18 08:36:47.865692+00:1541
+Victoria,Yulecart,62,0,0,0,No Risk, Being hit by moving objects,Body stressing,37,13,0,0,2021-07-18 08:36:47.865692+00:1542
+Victoria,Yuroke,60,0,0,0,No Risk, Being hit by moving objects,Body stressing,27,14,0,0,2021-07-18 08:36:47.865692+00:1543
