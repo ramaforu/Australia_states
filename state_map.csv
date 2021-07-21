@@ -1,9 +1,0 @@
-state,incident_count,eo,forecast,forecastaccuracy,risk,top_mechanism_1,top_mechanism_2,count_mechanism_1,count_mechanism_2,mechanism_per_1,mechanism_per_2,updated_on
-New South Wales,1.0,11.31,0.09,0.0,No Risk,Being hit by moving objects,None,1.0,0.0,100.0,0.0,2021-07-18 08:36:47.865692+00:00
-Victoria,1.0,0.0,0.0,0.0,No Risk,Being hit by moving objects,None,1.0,0.0,100.0,0.0,2021-07-18 08:36:47.865692+00:00
-Queensland,2.0,11.09,0.18,100.0,No Risk,"Falls, trips and slips of a person",Body stressing,1.0,1.0,50.0,50.0,2021-07-18 08:36:47.865692+00:00
-South Australia,0.0,10.35,0.0,0.0,No Risk,None,None,0.0,0.0,0.0,0.0,2021-07-18 08:36:47.865692+00:00
-Western Australia,0.0,0.0,0.0,0.0,No Risk,None,None,0.0,0.0,0.0,0.0,2021-07-18 08:36:47.865692+00:00
-Tasmania,0.0,10.56,0.0,0.0,No Risk,None,None,0.0,0.0,0.0,0.0,2021-07-18 08:36:47.865692+00:00
-Northern Territory,0.0,0.0,0.0,0.0,No Risk,None,None,0.0,0.0,0.0,0.0,2021-07-18 08:36:47.865692+00:00
-Australian Capital Territory,0.0,10.63,0.0,0.0,No Risk,None,None,0.0,0.0,0.0,0.0,2021-07-18 08:36:47.865692+00:00
