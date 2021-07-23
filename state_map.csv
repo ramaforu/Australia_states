@@ -1,9 +1,9 @@
 state,incident_count,eo,forecast,forecastaccuracy,risk,top_mechanism_1,top_mechanism_2,count_mechanism_1,count_mechanism_2,mechanism_per_1,mechanism_per_2,updated_on
-New South Wales,91,11.31,0.09,0,No Risk,Being hit by moving objects,Hitting objects with a part of the body,39,14,44,6,2021-07-18 08:36:47.865692+00:00
-Victoria,63,0,0,0,No Risk,Biological factors, Vehicle incidents and other,39,23,44,18,2021-07-18 08:36:47.865692+00:00
-Queensland,84,11.09,0.18,100,No Risk,"Falls, trips and slips of a person",Body stressing,45,21,34,12,2021-07-18 08:36:47.865692+00:00
-South Australia,72,10.35,0,0,No Risk, Vehicle incidents and other,"Heat, electricity and other environmental factors",37,10,35,12,2021-07-18 08:36:47.865692+00:00
-Western Australia,83,0,0,0,No Risk,Hitting objects with a part of the body,Mental stress,37,17,40,7,2021-07-18 08:36:47.865692+00:00
-Tasmania,83,10.56,0,0,No Risk,"Heat, electricity and other environmental factors", Biological factors,34,20,36,17,2021-07-18 08:36:47.865692+00:00
-Northern Territory,98,0,0,0,No Risk,Mental stress,Hitting objects with a part of the body,35,15,40,10,2021-07-18 08:36:47.865692+00:00
-Australian Capital Territory,90,10.63,0,0,No Risk, Body stressing,None,37,17,30,18,2021-07-18 08:36:47.865692+00:00
+New South Wales,9,11.31,0.09,0,No Risk,Being hit by moving objects,Hitting objects with a part of the body,39,14,44,6,2021-07-18 08:36:47.865692+00:00
+Victoria,6,0,0,0,No Risk,Biological factors, Vehicle incidents and other,39,23,44,18,2021-07-18 08:36:47.865692+00:00
+Queensland,0,11.09,0.18,100,No Risk,"Falls, trips and slips of a person",Body stressing,45,21,34,12,2021-07-18 08:36:47.865692+00:00
+South Australia,0,10.35,0,0,No Risk, Vehicle incidents and other,"Heat, electricity and other environmental factors",37,10,35,12,2021-07-18 08:36:47.865692+00:00
+Western Australia,1,0,0,0,No Risk,Hitting objects with a part of the body,Mental stress,37,17,40,7,2021-07-18 08:36:47.865692+00:00
+Tasmania,0,10.56,0,0,No Risk,"Heat, electricity and other environmental factors", Biological factors,34,20,36,17,2021-07-18 08:36:47.865692+00:00
+Northern Territory,4,0,0,0,No Risk,Mental stress,Hitting objects with a part of the body,35,15,40,10,2021-07-18 08:36:47.865692+00:00
+Australian Capital Territory,3,10.63,0,0,No Risk, Body stressing,None,37,17,30,18,2021-07-18 08:36:47.865692+00:00
